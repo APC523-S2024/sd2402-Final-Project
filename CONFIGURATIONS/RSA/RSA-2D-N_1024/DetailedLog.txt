@@ -1,0 +1,2538 @@
+at time1709141088, 853 Spheres inserted
+at time1709141088, current voxel:1348
+at time1709141088, 956 Spheres inserted
+at time1709141088, current voxel:298
+at time1709141088, 980 Spheres inserted
+at time1709141088, current voxel:171
+at time1709141088, 995 Spheres inserted
+at time1709141088, current voxel:92
+at time1709141088, 1006 Spheres inserted
+at time1709141088, current voxel:50
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:47
+at time1709141088, 1014 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 1015 Spheres inserted
+at time1709141088, current voxel:1
+at time1709141088, 1015 Spheres inserted
+at time1709141088, 1015 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.552363
+at time1709141088, 858 Spheres inserted
+at time1709141088, current voxel:1327
+at time1709141088, 956 Spheres inserted
+at time1709141088, current voxel:309
+at time1709141088, 983 Spheres inserted
+at time1709141088, current voxel:151
+at time1709141088, 998 Spheres inserted
+at time1709141088, current voxel:52
+at time1709141088, 1000 Spheres inserted
+at time1709141088, current voxel:37
+at time1709141088, 1001 Spheres inserted
+at time1709141088, current voxel:21
+at time1709141088, 1002 Spheres inserted
+at time1709141088, current voxel:17
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:7
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 1004 Spheres inserted
+at time1709141088, current voxel:6
+at time1709141088, 1005 Spheres inserted
+at time1709141088, 1005 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546921
+at time1709141088, 849 Spheres inserted
+at time1709141088, current voxel:1374
+at time1709141088, 955 Spheres inserted
+at time1709141088, current voxel:258
+at time1709141088, 969 Spheres inserted
+at time1709141088, current voxel:163
+at time1709141088, 979 Spheres inserted
+at time1709141088, current voxel:110
+at time1709141088, 994 Spheres inserted
+at time1709141088, current voxel:27
+at time1709141088, 995 Spheres inserted
+at time1709141088, current voxel:19
+at time1709141088, 997 Spheres inserted
+at time1709141088, current voxel:8
+at time1709141088, 998 Spheres inserted
+at time1709141088, current voxel:8
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 1000 Spheres inserted
+at time1709141088, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1709141088, 879 Spheres inserted
+at time1709141088, current voxel:1198
+at time1709141088, 964 Spheres inserted
+at time1709141088, current voxel:273
+at time1709141088, 983 Spheres inserted
+at time1709141088, current voxel:154
+at time1709141088, 994 Spheres inserted
+at time1709141088, current voxel:76
+at time1709141088, 997 Spheres inserted
+at time1709141088, current voxel:54
+at time1709141088, 1001 Spheres inserted
+at time1709141088, current voxel:39
+at time1709141088, 1004 Spheres inserted
+at time1709141088, current voxel:18
+at time1709141088, 1005 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 1006 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 1006 Spheres inserted
+at time1709141088, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1709141088, 851 Spheres inserted
+at time1709141088, current voxel:1380
+at time1709141088, 953 Spheres inserted
+at time1709141088, current voxel:273
+at time1709141088, 969 Spheres inserted
+at time1709141088, current voxel:161
+at time1709141088, 981 Spheres inserted
+at time1709141088, current voxel:70
+at time1709141088, 984 Spheres inserted
+at time1709141088, current voxel:34
+at time1709141088, 985 Spheres inserted
+at time1709141088, current voxel:35
+at time1709141088, 988 Spheres inserted
+at time1709141088, current voxel:19
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 991 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 992 Spheres inserted
+at time1709141088, 992 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.539846
+at time1709141088, 879 Spheres inserted
+at time1709141088, current voxel:1225
+at time1709141088, 960 Spheres inserted
+at time1709141088, current voxel:305
+at time1709141088, 984 Spheres inserted
+at time1709141088, current voxel:139
+at time1709141088, 989 Spheres inserted
+at time1709141088, current voxel:100
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:38
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:33
+at time1709141088, 1006 Spheres inserted
+at time1709141088, current voxel:22
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:6
+at time1709141088, 1009 Spheres inserted
+at time1709141088, current voxel:1
+at time1709141088, 1009 Spheres inserted
+at time1709141088, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1709141088, 871 Spheres inserted
+at time1709141088, current voxel:1299
+at time1709141088, 973 Spheres inserted
+at time1709141088, current voxel:256
+at time1709141088, 989 Spheres inserted
+at time1709141088, current voxel:135
+at time1709141088, 1001 Spheres inserted
+at time1709141088, current voxel:61
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:39
+at time1709141088, 1011 Spheres inserted
+at time1709141088, current voxel:19
+at time1709141088, 1013 Spheres inserted
+at time1709141088, current voxel:4
+at time1709141088, 1013 Spheres inserted
+at time1709141088, current voxel:7
+at time1709141088, 1014 Spheres inserted
+at time1709141088, 1014 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551819
+at time1709141088, 856 Spheres inserted
+at time1709141088, current voxel:1337
+at time1709141088, 956 Spheres inserted
+at time1709141088, current voxel:290
+at time1709141088, 971 Spheres inserted
+at time1709141088, current voxel:147
+at time1709141088, 978 Spheres inserted
+at time1709141088, current voxel:94
+at time1709141088, 980 Spheres inserted
+at time1709141088, current voxel:87
+at time1709141088, 989 Spheres inserted
+at time1709141088, current voxel:36
+at time1709141088, 991 Spheres inserted
+at time1709141088, current voxel:32
+at time1709141088, 992 Spheres inserted
+at time1709141088, current voxel:37
+at time1709141088, 995 Spheres inserted
+at time1709141088, current voxel:19
+at time1709141088, 997 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 997 Spheres inserted
+at time1709141088, 997 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542567
+at time1709141088, 857 Spheres inserted
+at time1709141088, current voxel:1352
+at time1709141088, 954 Spheres inserted
+at time1709141088, current voxel:296
+at time1709141088, 977 Spheres inserted
+at time1709141088, current voxel:172
+at time1709141088, 989 Spheres inserted
+at time1709141088, current voxel:94
+at time1709141088, 998 Spheres inserted
+at time1709141088, current voxel:54
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:12
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:4
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:6
+at time1709141088, 1009 Spheres inserted
+at time1709141088, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1709141088, 860 Spheres inserted
+at time1709141088, current voxel:1353
+at time1709141088, 958 Spheres inserted
+at time1709141088, current voxel:300
+at time1709141088, 971 Spheres inserted
+at time1709141088, current voxel:214
+at time1709141088, 993 Spheres inserted
+at time1709141088, current voxel:86
+at time1709141088, 1002 Spheres inserted
+at time1709141088, current voxel:23
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:11
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:8
+at time1709141088, 1004 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 1005 Spheres inserted
+at time1709141088, 1005 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546921
+at time1709141088, 857 Spheres inserted
+at time1709141088, current voxel:1358
+at time1709141088, 950 Spheres inserted
+at time1709141088, current voxel:290
+at time1709141088, 972 Spheres inserted
+at time1709141088, current voxel:156
+at time1709141088, 975 Spheres inserted
+at time1709141088, current voxel:118
+at time1709141088, 985 Spheres inserted
+at time1709141088, current voxel:53
+at time1709141088, 986 Spheres inserted
+at time1709141088, current voxel:44
+at time1709141088, 991 Spheres inserted
+at time1709141088, current voxel:11
+at time1709141088, 991 Spheres inserted
+at time1709141088, current voxel:17
+at time1709141088, 994 Spheres inserted
+at time1709141088, 994 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.540935
+at time1709141088, 833 Spheres inserted
+at time1709141088, current voxel:1399
+at time1709141088, 959 Spheres inserted
+at time1709141088, current voxel:277
+at time1709141088, 960 Spheres inserted
+at time1709141088, current voxel:186
+at time1709141088, 978 Spheres inserted
+at time1709141088, current voxel:81
+at time1709141088, 984 Spheres inserted
+at time1709141088, current voxel:43
+at time1709141088, 987 Spheres inserted
+at time1709141088, current voxel:35
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:18
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:18
+at time1709141088, 993 Spheres inserted
+at time1709141088, current voxel:7
+at time1709141088, 994 Spheres inserted
+at time1709141088, 994 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.540935
+at time1709141088, 877 Spheres inserted
+at time1709141088, current voxel:1249
+at time1709141088, 960 Spheres inserted
+at time1709141088, current voxel:356
+at time1709141088, 996 Spheres inserted
+at time1709141088, current voxel:160
+at time1709141088, 1009 Spheres inserted
+at time1709141088, current voxel:92
+at time1709141088, 1016 Spheres inserted
+at time1709141088, current voxel:52
+at time1709141088, 1020 Spheres inserted
+at time1709141088, current voxel:26
+at time1709141088, 1022 Spheres inserted
+at time1709141088, current voxel:11
+at time1709141088, 1022 Spheres inserted
+at time1709141088, current voxel:9
+at time1709141088, 1023 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 1023 Spheres inserted
+at time1709141088, current voxel:3
+at time1709141088, 1024 Spheres inserted
+at time1709141088, 1024 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.557261
+at time1709141088, 857 Spheres inserted
+at time1709141088, current voxel:1328
+at time1709141088, 969 Spheres inserted
+at time1709141088, current voxel:287
+at time1709141088, 986 Spheres inserted
+at time1709141088, current voxel:137
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:70
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:59
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:39
+at time1709141088, 1009 Spheres inserted
+at time1709141088, current voxel:25
+at time1709141088, 1011 Spheres inserted
+at time1709141088, current voxel:7
+at time1709141088, 1011 Spheres inserted
+at time1709141088, current voxel:4
+at time1709141088, 1011 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 1011 Spheres inserted
+at time1709141088, 1011 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.550186
+at time1709141088, 870 Spheres inserted
+at time1709141088, current voxel:1297
+at time1709141088, 934 Spheres inserted
+at time1709141088, current voxel:407
+at time1709141088, 974 Spheres inserted
+at time1709141088, current voxel:175
+at time1709141088, 992 Spheres inserted
+at time1709141088, current voxel:73
+at time1709141088, 998 Spheres inserted
+at time1709141088, current voxel:46
+at time1709141088, 1003 Spheres inserted
+at time1709141088, current voxel:20
+at time1709141088, 1006 Spheres inserted
+at time1709141088, current voxel:5
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:1
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:1
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:1
+at time1709141088, 1007 Spheres inserted
+at time1709141088, 1007 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548009
+at time1709141088, 862 Spheres inserted
+at time1709141088, current voxel:1324
+at time1709141088, 967 Spheres inserted
+at time1709141088, current voxel:278
+at time1709141088, 979 Spheres inserted
+at time1709141088, current voxel:173
+at time1709141088, 994 Spheres inserted
+at time1709141088, current voxel:100
+at time1709141088, 999 Spheres inserted
+at time1709141088, current voxel:63
+at time1709141088, 1007 Spheres inserted
+at time1709141088, current voxel:19
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:11
+at time1709141088, 1008 Spheres inserted
+at time1709141088, current voxel:18
+at time1709141088, 1010 Spheres inserted
+at time1709141088, current voxel:2
+at time1709141088, 1011 Spheres inserted
+at time1709141088, 1011 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.550186
+at time1709141088, 842 Spheres inserted
+at time1709141088, current voxel:1412
+at time1709141088, 977 Spheres inserted
+at time1709141088, current voxel:263
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:169
+at time1709141088, 993 Spheres inserted
+at time1709141088, current voxel:157
+at time1709141088, 1017 Spheres inserted
+at time1709141088, current voxel:33
+at time1709141088, 1019 Spheres inserted
+at time1709141088, current voxel:10
+at time1709141088, 1020 Spheres inserted
+at time1709141088, current voxel:4
+at time1709141088, 1020 Spheres inserted
+at time1709141088, current voxel:4
+at time1709141088, 1020 Spheres inserted
+at time1709141088, current voxel:6
+at time1709141088, 1021 Spheres inserted
+at time1709141088, 1021 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.555628
+at time1709141088, 842 Spheres inserted
+at time1709141088, current voxel:1380
+at time1709141088, 953 Spheres inserted
+at time1709141088, current voxel:305
+at time1709141088, 970 Spheres inserted
+at time1709141088, current voxel:187
+at time1709141088, 990 Spheres inserted
+at time1709141088, current voxel:56
+at time1709141088, 992 Spheres inserted
+at time1709141088, current voxel:37
+at time1709141088, 993 Spheres inserted
+at time1709141088, current voxel:32
+at time1709141088, 995 Spheres inserted
+at time1709141088, current voxel:16
+at time1709141088, 995 Spheres inserted
+at time1709141088, current voxel:20
+at time1709141088, 996 Spheres inserted
+at time1709141088, current voxel:20
+at time1709141088, 997 Spheres inserted
+at time1709141088, 997 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542567
+at time1709141088, 867 Spheres inserted
+at time1709141088, current voxel:1306
+at time1709141089, 958 Spheres inserted
+at time1709141089, current voxel:280
+at time1709141089, 981 Spheres inserted
+at time1709141089, current voxel:138
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:79
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:48
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:36
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:15
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:7
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1008 Spheres inserted
+at time1709141089, 1008 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548554
+at time1709141089, 869 Spheres inserted
+at time1709141089, current voxel:1284
+at time1709141089, 960 Spheres inserted
+at time1709141089, current voxel:304
+at time1709141089, 976 Spheres inserted
+at time1709141089, current voxel:173
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:91
+at time1709141089, 999 Spheres inserted
+at time1709141089, current voxel:33
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:14
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 1007 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1008 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1008 Spheres inserted
+at time1709141089, 1008 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548554
+at time1709141089, 871 Spheres inserted
+at time1709141089, current voxel:1289
+at time1709141089, 959 Spheres inserted
+at time1709141089, current voxel:308
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:174
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:102
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:35
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 1011 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1011 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1012 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1012 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1012 Spheres inserted
+at time1709141089, 1012 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55073
+at time1709141089, 868 Spheres inserted
+at time1709141089, current voxel:1287
+at time1709141089, 970 Spheres inserted
+at time1709141089, current voxel:259
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:133
+at time1709141089, 995 Spheres inserted
+at time1709141089, current voxel:70
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:27
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:15
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:7
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1006 Spheres inserted
+at time1709141089, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1709141089, 862 Spheres inserted
+at time1709141089, current voxel:1333
+at time1709141089, 967 Spheres inserted
+at time1709141089, current voxel:260
+at time1709141089, 979 Spheres inserted
+at time1709141089, current voxel:176
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:65
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:29
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:27
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:31
+at time1709141089, 1007 Spheres inserted
+at time1709141089, current voxel:20
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1009 Spheres inserted
+at time1709141089, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1709141089, 849 Spheres inserted
+at time1709141089, current voxel:1375
+at time1709141089, 964 Spheres inserted
+at time1709141089, current voxel:241
+at time1709141089, 984 Spheres inserted
+at time1709141089, current voxel:125
+at time1709141089, 987 Spheres inserted
+at time1709141089, current voxel:80
+at time1709141089, 990 Spheres inserted
+at time1709141089, current voxel:67
+at time1709141089, 997 Spheres inserted
+at time1709141089, current voxel:43
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:17
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:15
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:18
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:17
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1006 Spheres inserted
+at time1709141089, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1709141089, 814 Spheres inserted
+at time1709141089, current voxel:1538
+at time1709141089, 957 Spheres inserted
+at time1709141089, current voxel:310
+at time1709141089, 977 Spheres inserted
+at time1709141089, current voxel:173
+at time1709141089, 997 Spheres inserted
+at time1709141089, current voxel:81
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:47
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:15
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1009 Spheres inserted
+at time1709141089, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1709141089, 858 Spheres inserted
+at time1709141089, current voxel:1329
+at time1709141089, 972 Spheres inserted
+at time1709141089, current voxel:244
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:161
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:85
+at time1709141089, 996 Spheres inserted
+at time1709141089, current voxel:60
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:17
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:10
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1005 Spheres inserted
+at time1709141089, 1005 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546921
+at time1709141089, 867 Spheres inserted
+at time1709141089, current voxel:1330
+at time1709141089, 957 Spheres inserted
+at time1709141089, current voxel:321
+at time1709141089, 979 Spheres inserted
+at time1709141089, current voxel:164
+at time1709141089, 990 Spheres inserted
+at time1709141089, current voxel:84
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:47
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:20
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:14
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 1003 Spheres inserted
+at time1709141089, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1709141089, 859 Spheres inserted
+at time1709141089, current voxel:1344
+at time1709141089, 951 Spheres inserted
+at time1709141089, current voxel:377
+at time1709141089, 981 Spheres inserted
+at time1709141089, current voxel:206
+at time1709141089, 990 Spheres inserted
+at time1709141089, current voxel:140
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:74
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:36
+at time1709141089, 1017 Spheres inserted
+at time1709141089, current voxel:10
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:10
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 1019 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1019 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1019 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1019 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1019 Spheres inserted
+at time1709141089, 1019 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55454
+at time1709141089, 877 Spheres inserted
+at time1709141089, current voxel:1269
+at time1709141089, 963 Spheres inserted
+at time1709141089, current voxel:250
+at time1709141089, 974 Spheres inserted
+at time1709141089, current voxel:137
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:74
+at time1709141089, 983 Spheres inserted
+at time1709141089, current voxel:45
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:27
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 989 Spheres inserted
+at time1709141089, 989 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.538214
+at time1709141089, 857 Spheres inserted
+at time1709141089, current voxel:1367
+at time1709141089, 977 Spheres inserted
+at time1709141089, current voxel:259
+at time1709141089, 996 Spheres inserted
+at time1709141089, current voxel:137
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:79
+at time1709141089, 1008 Spheres inserted
+at time1709141089, current voxel:66
+at time1709141089, 1015 Spheres inserted
+at time1709141089, current voxel:20
+at time1709141089, 1017 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1018 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1018 Spheres inserted
+at time1709141089, 1018 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.553996
+at time1709141089, 865 Spheres inserted
+at time1709141089, current voxel:1314
+at time1709141089, 958 Spheres inserted
+at time1709141089, current voxel:290
+at time1709141089, 973 Spheres inserted
+at time1709141089, current voxel:201
+at time1709141089, 995 Spheres inserted
+at time1709141089, current voxel:93
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:65
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:26
+at time1709141089, 1008 Spheres inserted
+at time1709141089, current voxel:21
+at time1709141089, 1011 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1011 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1012 Spheres inserted
+at time1709141089, 1012 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55073
+at time1709141089, 859 Spheres inserted
+at time1709141089, current voxel:1330
+at time1709141089, 963 Spheres inserted
+at time1709141089, current voxel:283
+at time1709141089, 982 Spheres inserted
+at time1709141089, current voxel:138
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:90
+at time1709141089, 997 Spheres inserted
+at time1709141089, current voxel:33
+at time1709141089, 999 Spheres inserted
+at time1709141089, current voxel:14
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1003 Spheres inserted
+at time1709141089, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1709141089, 866 Spheres inserted
+at time1709141089, current voxel:1285
+at time1709141089, 968 Spheres inserted
+at time1709141089, current voxel:288
+at time1709141089, 982 Spheres inserted
+at time1709141089, current voxel:177
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:90
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:82
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:36
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1014 Spheres inserted
+at time1709141089, 1014 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551819
+at time1709141089, 857 Spheres inserted
+at time1709141089, current voxel:1366
+at time1709141089, 961 Spheres inserted
+at time1709141089, current voxel:314
+at time1709141089, 972 Spheres inserted
+at time1709141089, current voxel:210
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:112
+at time1709141089, 994 Spheres inserted
+at time1709141089, current voxel:44
+at time1709141089, 997 Spheres inserted
+at time1709141089, current voxel:29
+at time1709141089, 999 Spheres inserted
+at time1709141089, current voxel:21
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:14
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:16
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1004 Spheres inserted
+at time1709141089, 1004 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546377
+at time1709141089, 884 Spheres inserted
+at time1709141089, current voxel:1189
+at time1709141089, 963 Spheres inserted
+at time1709141089, current voxel:274
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:148
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:86
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:42
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1001 Spheres inserted
+at time1709141089, 1001 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.544744
+at time1709141089, 842 Spheres inserted
+at time1709141089, current voxel:1409
+at time1709141089, 947 Spheres inserted
+at time1709141089, current voxel:300
+at time1709141089, 955 Spheres inserted
+at time1709141089, current voxel:231
+at time1709141089, 978 Spheres inserted
+at time1709141089, current voxel:115
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:68
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:64
+at time1709141089, 990 Spheres inserted
+at time1709141089, current voxel:27
+at time1709141089, 990 Spheres inserted
+at time1709141089, current voxel:19
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 994 Spheres inserted
+at time1709141089, 994 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.540935
+at time1709141089, 867 Spheres inserted
+at time1709141089, current voxel:1284
+at time1709141089, 952 Spheres inserted
+at time1709141089, current voxel:316
+at time1709141089, 969 Spheres inserted
+at time1709141089, current voxel:180
+at time1709141089, 981 Spheres inserted
+at time1709141089, current voxel:110
+at time1709141089, 991 Spheres inserted
+at time1709141089, current voxel:52
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:23
+at time1709141089, 999 Spheres inserted
+at time1709141089, current voxel:14
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 1003 Spheres inserted
+at time1709141089, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1709141089, 857 Spheres inserted
+at time1709141089, current voxel:1325
+at time1709141089, 959 Spheres inserted
+at time1709141089, current voxel:321
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:140
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:61
+at time1709141089, 1007 Spheres inserted
+at time1709141089, current voxel:34
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:22
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:7
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:7
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1010 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1010 Spheres inserted
+at time1709141089, 1010 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549642
+at time1709141089, 828 Spheres inserted
+at time1709141089, current voxel:1464
+at time1709141089, 974 Spheres inserted
+at time1709141089, current voxel:254
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:133
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:108
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:92
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:42
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:33
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:7
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1007 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1007 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1007 Spheres inserted
+at time1709141089, 1007 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548009
+at time1709141089, 859 Spheres inserted
+at time1709141089, current voxel:1336
+at time1709141089, 953 Spheres inserted
+at time1709141089, current voxel:316
+at time1709141089, 975 Spheres inserted
+at time1709141089, current voxel:158
+at time1709141089, 991 Spheres inserted
+at time1709141089, current voxel:76
+at time1709141089, 994 Spheres inserted
+at time1709141089, current voxel:64
+at time1709141089, 997 Spheres inserted
+at time1709141089, current voxel:39
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1002 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1004 Spheres inserted
+at time1709141089, 1004 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546377
+at time1709141089, 868 Spheres inserted
+at time1709141089, current voxel:1300
+at time1709141089, 959 Spheres inserted
+at time1709141089, current voxel:296
+at time1709141089, 981 Spheres inserted
+at time1709141089, current voxel:146
+at time1709141089, 993 Spheres inserted
+at time1709141089, current voxel:90
+at time1709141089, 1001 Spheres inserted
+at time1709141089, current voxel:47
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:36
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:20
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1009 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1010 Spheres inserted
+at time1709141089, 1010 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549642
+at time1709141089, 864 Spheres inserted
+at time1709141089, current voxel:1283
+at time1709141089, 961 Spheres inserted
+at time1709141089, current voxel:292
+at time1709141089, 983 Spheres inserted
+at time1709141089, current voxel:155
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:102
+at time1709141089, 992 Spheres inserted
+at time1709141089, current voxel:76
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:34
+at time1709141089, 1004 Spheres inserted
+at time1709141089, current voxel:11
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 1006 Spheres inserted
+at time1709141089, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1709141089, 842 Spheres inserted
+at time1709141089, current voxel:1424
+at time1709141089, 955 Spheres inserted
+at time1709141089, current voxel:340
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:158
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:87
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:75
+at time1709141089, 996 Spheres inserted
+at time1709141089, current voxel:27
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 999 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1000 Spheres inserted
+at time1709141089, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1709141089, 857 Spheres inserted
+at time1709141089, current voxel:1320
+at time1709141089, 951 Spheres inserted
+at time1709141089, current voxel:327
+at time1709141089, 967 Spheres inserted
+at time1709141089, current voxel:202
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:102
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:93
+at time1709141089, 998 Spheres inserted
+at time1709141089, current voxel:38
+at time1709141089, 1000 Spheres inserted
+at time1709141089, current voxel:37
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:20
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 1006 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 1006 Spheres inserted
+at time1709141089, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1709141089, 870 Spheres inserted
+at time1709141089, current voxel:1286
+at time1709141089, 961 Spheres inserted
+at time1709141089, current voxel:331
+at time1709141089, 987 Spheres inserted
+at time1709141089, current voxel:164
+at time1709141089, 994 Spheres inserted
+at time1709141089, current voxel:103
+at time1709141089, 1003 Spheres inserted
+at time1709141089, current voxel:54
+at time1709141089, 1005 Spheres inserted
+at time1709141089, current voxel:49
+at time1709141089, 1008 Spheres inserted
+at time1709141089, current voxel:42
+at time1709141089, 1011 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 1012 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 1013 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 1014 Spheres inserted
+at time1709141089, 1014 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551819
+at time1709141089, 852 Spheres inserted
+at time1709141089, current voxel:1374
+at time1709141089, 931 Spheres inserted
+at time1709141089, current voxel:386
+at time1709141089, 959 Spheres inserted
+at time1709141089, current voxel:179
+at time1709141089, 966 Spheres inserted
+at time1709141089, current voxel:126
+at time1709141089, 976 Spheres inserted
+at time1709141089, current voxel:62
+at time1709141089, 983 Spheres inserted
+at time1709141089, current voxel:28
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:9
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:2
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:4
+at time1709141089, 986 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 987 Spheres inserted
+at time1709141089, 987 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.537125
+at time1709141089, 854 Spheres inserted
+at time1709141089, current voxel:1324
+at time1709141089, 941 Spheres inserted
+at time1709141089, current voxel:303
+at time1709141089, 961 Spheres inserted
+at time1709141089, current voxel:161
+at time1709141089, 968 Spheres inserted
+at time1709141089, current voxel:108
+at time1709141089, 971 Spheres inserted
+at time1709141089, current voxel:84
+at time1709141089, 980 Spheres inserted
+at time1709141089, current voxel:35
+at time1709141089, 982 Spheres inserted
+at time1709141089, current voxel:33
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:8
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 988 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:3
+at time1709141089, 989 Spheres inserted
+at time1709141089, current voxel:1
+at time1709141089, 989 Spheres inserted
+at time1709141089, 989 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.538214
+at time1709141089, 855 Spheres inserted
+at time1709141089, current voxel:1308
+at time1709141089, 945 Spheres inserted
+at time1709141089, current voxel:290
+at time1709141089, 964 Spheres inserted
+at time1709141089, current voxel:151
+at time1709141089, 971 Spheres inserted
+at time1709141089, current voxel:78
+at time1709141089, 979 Spheres inserted
+at time1709141089, current voxel:43
+at time1709141089, 983 Spheres inserted
+at time1709141089, current voxel:13
+at time1709141089, 984 Spheres inserted
+at time1709141089, current voxel:12
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:5
+at time1709141089, 985 Spheres inserted
+at time1709141089, current voxel:6
+at time1709141089, 986 Spheres inserted
+at time1709141089, 986 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.536581
+at time1709141089, 847 Spheres inserted
+at time1709141089, current voxel:1365
+at time1709141089, 959 Spheres inserted
+at time1709141089, current voxel:263
+at time1709141089, 979 Spheres inserted
+at time1709141089, current voxel:137
+at time1709141089, 987 Spheres inserted
+at time1709141089, current voxel:75
+at time1709141090, 994 Spheres inserted
+at time1709141090, current voxel:48
+at time1709141090, 996 Spheres inserted
+at time1709141090, current voxel:41
+at time1709141090, 998 Spheres inserted
+at time1709141090, current voxel:31
+at time1709141090, 1000 Spheres inserted
+at time1709141090, current voxel:22
+at time1709141090, 1001 Spheres inserted
+at time1709141090, current voxel:15
+at time1709141090, 1002 Spheres inserted
+at time1709141090, current voxel:3
+at time1709141090, 1002 Spheres inserted
+at time1709141090, 1002 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545288
+at time1709141090, 849 Spheres inserted
+at time1709141090, current voxel:1387
+at time1709141090, 965 Spheres inserted
+at time1709141090, current voxel:294
+at time1709141090, 975 Spheres inserted
+at time1709141090, current voxel:215
+at time1709141090, 1005 Spheres inserted
+at time1709141090, current voxel:89
+at time1709141090, 1008 Spheres inserted
+at time1709141090, current voxel:54
+at time1709141090, 1011 Spheres inserted
+at time1709141090, current voxel:43
+at time1709141090, 1017 Spheres inserted
+at time1709141090, current voxel:9
+at time1709141090, 1017 Spheres inserted
+at time1709141090, current voxel:8
+at time1709141090, 1017 Spheres inserted
+at time1709141090, current voxel:9
+at time1709141090, 1018 Spheres inserted
+at time1709141090, current voxel:3
+at time1709141090, 1018 Spheres inserted
+at time1709141090, current voxel:2
+at time1709141090, 1018 Spheres inserted
+at time1709141090, current voxel:2
+at time1709141090, 1018 Spheres inserted
+at time1709141090, 1018 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.553996
+at time1710345954, 871 Spheres inserted
+at time1710345954, current voxel:1299
+at time1710345954, 954 Spheres inserted
+at time1710345954, current voxel:323
+at time1710345954, 988 Spheres inserted
+at time1710345954, current voxel:130
+at time1710345954, 991 Spheres inserted
+at time1710345954, current voxel:77
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:58
+at time1710345954, 1000 Spheres inserted
+at time1710345954, current voxel:25
+at time1710345954, 1001 Spheres inserted
+at time1710345954, current voxel:20
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:10
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:6
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 1003 Spheres inserted
+at time1710345954, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1710345954, 842 Spheres inserted
+at time1710345954, current voxel:1388
+at time1710345954, 949 Spheres inserted
+at time1710345954, current voxel:289
+at time1710345954, 965 Spheres inserted
+at time1710345954, current voxel:181
+at time1710345954, 972 Spheres inserted
+at time1710345954, current voxel:106
+at time1710345954, 983 Spheres inserted
+at time1710345954, current voxel:61
+at time1710345954, 988 Spheres inserted
+at time1710345954, current voxel:30
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:24
+at time1710345954, 992 Spheres inserted
+at time1710345954, current voxel:19
+at time1710345954, 994 Spheres inserted
+at time1710345954, current voxel:11
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 995 Spheres inserted
+at time1710345954, 995 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.541479
+at time1710345954, 846 Spheres inserted
+at time1710345954, current voxel:1359
+at time1710345954, 952 Spheres inserted
+at time1710345954, current voxel:292
+at time1710345954, 970 Spheres inserted
+at time1710345954, current voxel:166
+at time1710345954, 979 Spheres inserted
+at time1710345954, current voxel:118
+at time1710345954, 989 Spheres inserted
+at time1710345954, current voxel:73
+at time1710345954, 999 Spheres inserted
+at time1710345954, current voxel:36
+at time1710345954, 1000 Spheres inserted
+at time1710345954, current voxel:27
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:17
+at time1710345954, 1004 Spheres inserted
+at time1710345954, current voxel:13
+at time1710345954, 1006 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1006 Spheres inserted
+at time1710345954, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1710345954, 847 Spheres inserted
+at time1710345954, current voxel:1419
+at time1710345954, 940 Spheres inserted
+at time1710345954, current voxel:343
+at time1710345954, 964 Spheres inserted
+at time1710345954, current voxel:196
+at time1710345954, 983 Spheres inserted
+at time1710345954, current voxel:95
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:56
+at time1710345954, 997 Spheres inserted
+at time1710345954, current voxel:23
+at time1710345954, 998 Spheres inserted
+at time1710345954, current voxel:17
+at time1710345954, 999 Spheres inserted
+at time1710345954, current voxel:6
+at time1710345954, 1000 Spheres inserted
+at time1710345954, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1710345954, 868 Spheres inserted
+at time1710345954, current voxel:1291
+at time1710345954, 958 Spheres inserted
+at time1710345954, current voxel:287
+at time1710345954, 974 Spheres inserted
+at time1710345954, current voxel:194
+at time1710345954, 996 Spheres inserted
+at time1710345954, current voxel:77
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:42
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:16
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:17
+at time1710345954, 1011 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 1011 Spheres inserted
+at time1710345954, current voxel:11
+at time1710345954, 1011 Spheres inserted
+at time1710345954, current voxel:16
+at time1710345954, 1013 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 1013 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 1013 Spheres inserted
+at time1710345954, current voxel:5
+at time1710345954, 1014 Spheres inserted
+at time1710345954, 1014 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551819
+at time1710345954, 855 Spheres inserted
+at time1710345954, current voxel:1356
+at time1710345954, 948 Spheres inserted
+at time1710345954, current voxel:371
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:161
+at time1710345954, 1006 Spheres inserted
+at time1710345954, current voxel:80
+at time1710345954, 1007 Spheres inserted
+at time1710345954, current voxel:67
+at time1710345954, 1013 Spheres inserted
+at time1710345954, current voxel:53
+at time1710345954, 1016 Spheres inserted
+at time1710345954, current voxel:24
+at time1710345954, 1017 Spheres inserted
+at time1710345954, current voxel:6
+at time1710345954, 1017 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1017 Spheres inserted
+at time1710345954, 1017 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.553451
+at time1710345954, 861 Spheres inserted
+at time1710345954, current voxel:1330
+at time1710345954, 960 Spheres inserted
+at time1710345954, current voxel:292
+at time1710345954, 978 Spheres inserted
+at time1710345954, current voxel:148
+at time1710345954, 988 Spheres inserted
+at time1710345954, current voxel:104
+at time1710345954, 999 Spheres inserted
+at time1710345954, current voxel:62
+at time1710345954, 1008 Spheres inserted
+at time1710345954, current voxel:28
+at time1710345954, 1010 Spheres inserted
+at time1710345954, current voxel:13
+at time1710345954, 1012 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1012 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1012 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1012 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 1013 Spheres inserted
+at time1710345954, 1013 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551275
+at time1710345954, 837 Spheres inserted
+at time1710345954, current voxel:1402
+at time1710345954, 943 Spheres inserted
+at time1710345954, current voxel:340
+at time1710345954, 962 Spheres inserted
+at time1710345954, current voxel:208
+at time1710345954, 982 Spheres inserted
+at time1710345954, current voxel:94
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:41
+at time1710345954, 991 Spheres inserted
+at time1710345954, current voxel:30
+at time1710345954, 993 Spheres inserted
+at time1710345954, current voxel:11
+at time1710345954, 994 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:7
+at time1710345954, 996 Spheres inserted
+at time1710345954, current voxel:7
+at time1710345954, 996 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 997 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 997 Spheres inserted
+at time1710345954, 997 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542567
+at time1710345954, 850 Spheres inserted
+at time1710345954, current voxel:1381
+at time1710345954, 950 Spheres inserted
+at time1710345954, current voxel:339
+at time1710345954, 989 Spheres inserted
+at time1710345954, current voxel:104
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:51
+at time1710345954, 998 Spheres inserted
+at time1710345954, current voxel:29
+at time1710345954, 999 Spheres inserted
+at time1710345954, current voxel:25
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:15
+at time1710345954, 1004 Spheres inserted
+at time1710345954, current voxel:13
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:3
+at time1710345954, 1006 Spheres inserted
+at time1710345954, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1710345954, 860 Spheres inserted
+at time1710345954, current voxel:1295
+at time1710345954, 957 Spheres inserted
+at time1710345954, current voxel:244
+at time1710345954, 968 Spheres inserted
+at time1710345954, current voxel:147
+at time1710345954, 974 Spheres inserted
+at time1710345954, current voxel:95
+at time1710345954, 980 Spheres inserted
+at time1710345954, current voxel:70
+at time1710345954, 987 Spheres inserted
+at time1710345954, current voxel:32
+at time1710345954, 989 Spheres inserted
+at time1710345954, current voxel:22
+at time1710345954, 991 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 992 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 992 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 992 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 992 Spheres inserted
+at time1710345954, 992 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.539846
+at time1710345954, 862 Spheres inserted
+at time1710345954, current voxel:1317
+at time1710345954, 965 Spheres inserted
+at time1710345954, current voxel:263
+at time1710345954, 987 Spheres inserted
+at time1710345954, current voxel:143
+at time1710345954, 999 Spheres inserted
+at time1710345954, current voxel:79
+at time1710345954, 1006 Spheres inserted
+at time1710345954, current voxel:38
+at time1710345954, 1008 Spheres inserted
+at time1710345954, current voxel:25
+at time1710345954, 1008 Spheres inserted
+at time1710345954, current voxel:20
+at time1710345954, 1010 Spheres inserted
+at time1710345954, current voxel:6
+at time1710345954, 1010 Spheres inserted
+at time1710345954, current voxel:3
+at time1710345954, 1010 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 1010 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 1010 Spheres inserted
+at time1710345954, 1010 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549642
+at time1710345954, 855 Spheres inserted
+at time1710345954, current voxel:1340
+at time1710345954, 942 Spheres inserted
+at time1710345954, current voxel:373
+at time1710345954, 980 Spheres inserted
+at time1710345954, current voxel:157
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:85
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:74
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:40
+at time1710345954, 1007 Spheres inserted
+at time1710345954, current voxel:41
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:21
+at time1710345954, 1011 Spheres inserted
+at time1710345954, current voxel:18
+at time1710345954, 1012 Spheres inserted
+at time1710345954, current voxel:10
+at time1710345954, 1013 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 1013 Spheres inserted
+at time1710345954, 1013 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551275
+at time1710345954, 847 Spheres inserted
+at time1710345954, current voxel:1408
+at time1710345954, 957 Spheres inserted
+at time1710345954, current voxel:316
+at time1710345954, 979 Spheres inserted
+at time1710345954, current voxel:165
+at time1710345954, 987 Spheres inserted
+at time1710345954, current voxel:132
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:54
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:32
+at time1710345954, 1008 Spheres inserted
+at time1710345954, current voxel:17
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:12
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:13
+at time1710345954, 1011 Spheres inserted
+at time1710345954, current voxel:6
+at time1710345954, 1012 Spheres inserted
+at time1710345954, 1012 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55073
+at time1710345954, 847 Spheres inserted
+at time1710345954, current voxel:1374
+at time1710345954, 954 Spheres inserted
+at time1710345954, current voxel:334
+at time1710345954, 972 Spheres inserted
+at time1710345954, current voxel:212
+at time1710345954, 982 Spheres inserted
+at time1710345954, current voxel:138
+at time1710345954, 991 Spheres inserted
+at time1710345954, current voxel:89
+at time1710345954, 994 Spheres inserted
+at time1710345954, current voxel:79
+at time1710345954, 1002 Spheres inserted
+at time1710345954, current voxel:28
+at time1710345954, 1003 Spheres inserted
+at time1710345954, current voxel:25
+at time1710345954, 1005 Spheres inserted
+at time1710345954, current voxel:25
+at time1710345954, 1008 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:1
+at time1710345954, 1009 Spheres inserted
+at time1710345954, current voxel:2
+at time1710345954, 1009 Spheres inserted
+at time1710345954, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1710345954, 841 Spheres inserted
+at time1710345954, current voxel:1386
+at time1710345954, 952 Spheres inserted
+at time1710345954, current voxel:305
+at time1710345954, 974 Spheres inserted
+at time1710345954, current voxel:150
+at time1710345954, 987 Spheres inserted
+at time1710345954, current voxel:59
+at time1710345954, 993 Spheres inserted
+at time1710345954, current voxel:27
+at time1710345954, 995 Spheres inserted
+at time1710345954, current voxel:19
+at time1710345954, 997 Spheres inserted
+at time1710345954, current voxel:9
+at time1710345954, 997 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 998 Spheres inserted
+at time1710345954, current voxel:3
+at time1710345954, 998 Spheres inserted
+at time1710345954, current voxel:4
+at time1710345954, 999 Spheres inserted
+at time1710345954, 999 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.543656
+at time1710345954, 879 Spheres inserted
+at time1710345954, current voxel:1251
+at time1710345954, 964 Spheres inserted
+at time1710345954, current voxel:257
+at time1710345954, 981 Spheres inserted
+at time1710345954, current voxel:140
+at time1710345954, 982 Spheres inserted
+at time1710345954, current voxel:107
+at time1710345954, 987 Spheres inserted
+at time1710345954, current voxel:63
+at time1710345954, 990 Spheres inserted
+at time1710345954, current voxel:63
+at time1710345954, 1000 Spheres inserted
+at time1710345954, current voxel:8
+at time1710345954, 1001 Spheres inserted
+at time1710345954, current voxel:3
+at time1710345954, 1001 Spheres inserted
+at time1710345954, current voxel:3
+at time1710345954, 1001 Spheres inserted
+at time1710345954, 1001 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.544744
+at time1710345954, 863 Spheres inserted
+at time1710345954, current voxel:1333
+at time1710345955, 957 Spheres inserted
+at time1710345955, current voxel:300
+at time1710345955, 984 Spheres inserted
+at time1710345955, current voxel:131
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:74
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:39
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:41
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:7
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:7
+at time1710345955, 1012 Spheres inserted
+at time1710345955, 1012 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55073
+at time1710345955, 866 Spheres inserted
+at time1710345955, current voxel:1313
+at time1710345955, 945 Spheres inserted
+at time1710345955, current voxel:393
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:151
+at time1710345955, 995 Spheres inserted
+at time1710345955, current voxel:79
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:43
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:12
+at time1710345955, 1008 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1009 Spheres inserted
+at time1710345955, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1710345955, 842 Spheres inserted
+at time1710345955, current voxel:1424
+at time1710345955, 958 Spheres inserted
+at time1710345955, current voxel:300
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:171
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:75
+at time1710345955, 989 Spheres inserted
+at time1710345955, current voxel:62
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:25
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:12
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 1005 Spheres inserted
+at time1710345955, 1005 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546921
+at time1710345955, 866 Spheres inserted
+at time1710345955, current voxel:1329
+at time1710345955, 957 Spheres inserted
+at time1710345955, current voxel:332
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:156
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:108
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:37
+at time1710345955, 1010 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1012 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1012 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1013 Spheres inserted
+at time1710345955, 1013 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551275
+at time1710345955, 824 Spheres inserted
+at time1710345955, current voxel:1444
+at time1710345955, 947 Spheres inserted
+at time1710345955, current voxel:282
+at time1710345955, 968 Spheres inserted
+at time1710345955, current voxel:131
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:69
+at time1710345955, 982 Spheres inserted
+at time1710345955, current voxel:40
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:13
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 988 Spheres inserted
+at time1710345955, 988 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.53767
+at time1710345955, 831 Spheres inserted
+at time1710345955, current voxel:1431
+at time1710345955, 972 Spheres inserted
+at time1710345955, current voxel:266
+at time1710345955, 981 Spheres inserted
+at time1710345955, current voxel:172
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:94
+at time1710345955, 1009 Spheres inserted
+at time1710345955, current voxel:31
+at time1710345955, 1009 Spheres inserted
+at time1710345955, current voxel:23
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:18
+at time1710345955, 1013 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 1015 Spheres inserted
+at time1710345955, 1015 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.552363
+at time1710345955, 817 Spheres inserted
+at time1710345955, current voxel:1520
+at time1710345955, 962 Spheres inserted
+at time1710345955, current voxel:317
+at time1710345955, 981 Spheres inserted
+at time1710345955, current voxel:184
+at time1710345955, 983 Spheres inserted
+at time1710345955, current voxel:151
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:53
+at time1710345955, 1009 Spheres inserted
+at time1710345955, current voxel:24
+at time1710345955, 1010 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 1010 Spheres inserted
+at time1710345955, current voxel:23
+at time1710345955, 1013 Spheres inserted
+at time1710345955, current voxel:8
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1016 Spheres inserted
+at time1710345955, 1016 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.552907
+at time1710345955, 841 Spheres inserted
+at time1710345955, current voxel:1389
+at time1710345955, 951 Spheres inserted
+at time1710345955, current voxel:326
+at time1710345955, 983 Spheres inserted
+at time1710345955, current voxel:170
+at time1710345955, 988 Spheres inserted
+at time1710345955, current voxel:104
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:57
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:33
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:18
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:8
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 1007 Spheres inserted
+at time1710345955, 1007 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548009
+at time1710345955, 841 Spheres inserted
+at time1710345955, current voxel:1382
+at time1710345955, 963 Spheres inserted
+at time1710345955, current voxel:296
+at time1710345955, 979 Spheres inserted
+at time1710345955, current voxel:163
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:76
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:69
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:48
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:29
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:16
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:8
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 1004 Spheres inserted
+at time1710345955, 1004 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546377
+at time1710345955, 855 Spheres inserted
+at time1710345955, current voxel:1342
+at time1710345955, 953 Spheres inserted
+at time1710345955, current voxel:306
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:167
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:69
+at time1710345955, 989 Spheres inserted
+at time1710345955, current voxel:54
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:26
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 999 Spheres inserted
+at time1710345955, 999 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.543656
+at time1710345955, 852 Spheres inserted
+at time1710345955, current voxel:1382
+at time1710345955, 969 Spheres inserted
+at time1710345955, current voxel:276
+at time1710345955, 991 Spheres inserted
+at time1710345955, current voxel:137
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:77
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:41
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:35
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:24
+at time1710345955, 1008 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1009 Spheres inserted
+at time1710345955, 1009 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.549098
+at time1710345955, 866 Spheres inserted
+at time1710345955, current voxel:1280
+at time1710345955, 957 Spheres inserted
+at time1710345955, current voxel:307
+at time1710345955, 974 Spheres inserted
+at time1710345955, current voxel:148
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:111
+at time1710345955, 984 Spheres inserted
+at time1710345955, current voxel:65
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:26
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:23
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 999 Spheres inserted
+at time1710345955, 999 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.543656
+at time1710345955, 838 Spheres inserted
+at time1710345955, current voxel:1389
+at time1710345955, 954 Spheres inserted
+at time1710345955, current voxel:312
+at time1710345955, 975 Spheres inserted
+at time1710345955, current voxel:178
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:94
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:44
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:19
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1000 Spheres inserted
+at time1710345955, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1710345955, 866 Spheres inserted
+at time1710345955, current voxel:1277
+at time1710345955, 956 Spheres inserted
+at time1710345955, current voxel:269
+at time1710345955, 969 Spheres inserted
+at time1710345955, current voxel:148
+at time1710345955, 984 Spheres inserted
+at time1710345955, current voxel:64
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:54
+at time1710345955, 991 Spheres inserted
+at time1710345955, current voxel:22
+at time1710345955, 992 Spheres inserted
+at time1710345955, current voxel:29
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:30
+at time1710345955, 995 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 997 Spheres inserted
+at time1710345955, 997 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542567
+at time1710345955, 871 Spheres inserted
+at time1710345955, current voxel:1289
+at time1710345955, 966 Spheres inserted
+at time1710345955, current voxel:279
+at time1710345955, 988 Spheres inserted
+at time1710345955, current voxel:149
+at time1710345955, 990 Spheres inserted
+at time1710345955, current voxel:115
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:87
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:50
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:13
+at time1710345955, 1012 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 1013 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1013 Spheres inserted
+at time1710345955, 1013 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551275
+at time1710345955, 845 Spheres inserted
+at time1710345955, current voxel:1374
+at time1710345955, 964 Spheres inserted
+at time1710345955, current voxel:254
+at time1710345955, 975 Spheres inserted
+at time1710345955, current voxel:146
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:76
+at time1710345955, 989 Spheres inserted
+at time1710345955, current voxel:58
+at time1710345955, 995 Spheres inserted
+at time1710345955, current voxel:28
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:12
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:8
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1000 Spheres inserted
+at time1710345955, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1710345955, 878 Spheres inserted
+at time1710345955, current voxel:1269
+at time1710345955, 965 Spheres inserted
+at time1710345955, current voxel:238
+at time1710345955, 973 Spheres inserted
+at time1710345955, current voxel:167
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:83
+at time1710345955, 992 Spheres inserted
+at time1710345955, current voxel:47
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:18
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:12
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1000 Spheres inserted
+at time1710345955, 1000 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.5442
+at time1710345955, 839 Spheres inserted
+at time1710345955, current voxel:1398
+at time1710345955, 961 Spheres inserted
+at time1710345955, current voxel:312
+at time1710345955, 985 Spheres inserted
+at time1710345955, current voxel:161
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:82
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:44
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:27
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1013 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1014 Spheres inserted
+at time1710345955, 1014 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.551819
+at time1710345955, 836 Spheres inserted
+at time1710345955, current voxel:1450
+at time1710345955, 961 Spheres inserted
+at time1710345955, current voxel:249
+at time1710345955, 974 Spheres inserted
+at time1710345955, current voxel:178
+at time1710345955, 988 Spheres inserted
+at time1710345955, current voxel:110
+at time1710345955, 999 Spheres inserted
+at time1710345955, current voxel:43
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:18
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 1006 Spheres inserted
+at time1710345955, 1006 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.547465
+at time1710345955, 844 Spheres inserted
+at time1710345955, current voxel:1393
+at time1710345955, 944 Spheres inserted
+at time1710345955, current voxel:364
+at time1710345955, 970 Spheres inserted
+at time1710345955, current voxel:185
+at time1710345955, 979 Spheres inserted
+at time1710345955, current voxel:120
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:106
+at time1710345955, 995 Spheres inserted
+at time1710345955, current voxel:49
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:36
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1003 Spheres inserted
+at time1710345955, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1710345955, 843 Spheres inserted
+at time1710345955, current voxel:1421
+at time1710345955, 954 Spheres inserted
+at time1710345955, current voxel:332
+at time1710345955, 982 Spheres inserted
+at time1710345955, current voxel:158
+at time1710345955, 988 Spheres inserted
+at time1710345955, current voxel:103
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:47
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:48
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:18
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1008 Spheres inserted
+at time1710345955, 1008 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548554
+at time1710345955, 837 Spheres inserted
+at time1710345955, current voxel:1435
+at time1710345955, 965 Spheres inserted
+at time1710345955, current voxel:300
+at time1710345955, 988 Spheres inserted
+at time1710345955, current voxel:150
+at time1710345955, 989 Spheres inserted
+at time1710345955, current voxel:97
+at time1710345955, 998 Spheres inserted
+at time1710345955, current voxel:41
+at time1710345955, 1001 Spheres inserted
+at time1710345955, current voxel:39
+at time1710345955, 1006 Spheres inserted
+at time1710345955, current voxel:13
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:7
+at time1710345955, 1008 Spheres inserted
+at time1710345955, 1008 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548554
+at time1710345955, 866 Spheres inserted
+at time1710345955, current voxel:1287
+at time1710345955, 961 Spheres inserted
+at time1710345955, current voxel:268
+at time1710345955, 978 Spheres inserted
+at time1710345955, current voxel:171
+at time1710345955, 987 Spheres inserted
+at time1710345955, current voxel:91
+at time1710345955, 997 Spheres inserted
+at time1710345955, current voxel:41
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:28
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:13
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:3
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:4
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 1007 Spheres inserted
+at time1710345955, current voxel:7
+at time1710345955, 1008 Spheres inserted
+at time1710345955, 1008 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.548554
+at time1710345955, 862 Spheres inserted
+at time1710345955, current voxel:1314
+at time1710345955, 943 Spheres inserted
+at time1710345955, current voxel:375
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:164
+at time1710345955, 986 Spheres inserted
+at time1710345955, current voxel:101
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:45
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:6
+at time1710345955, 1004 Spheres inserted
+at time1710345955, 1004 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546377
+at time1710345955, 861 Spheres inserted
+at time1710345955, current voxel:1318
+at time1710345955, 974 Spheres inserted
+at time1710345955, current voxel:264
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:126
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:74
+at time1710345955, 1005 Spheres inserted
+at time1710345955, current voxel:59
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:8
+at time1710345955, 1016 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1016 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 1016 Spheres inserted
+at time1710345955, 1016 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.552907
+at time1710345955, 882 Spheres inserted
+at time1710345955, current voxel:1204
+at time1710345955, 964 Spheres inserted
+at time1710345955, current voxel:312
+at time1710345955, 995 Spheres inserted
+at time1710345955, current voxel:133
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:75
+at time1710345955, 1011 Spheres inserted
+at time1710345955, current voxel:36
+at time1710345955, 1013 Spheres inserted
+at time1710345955, current voxel:32
+at time1710345955, 1017 Spheres inserted
+at time1710345955, current voxel:13
+at time1710345955, 1018 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1020 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1020 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1020 Spheres inserted
+at time1710345955, current voxel:2
+at time1710345955, 1020 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 1020 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 1020 Spheres inserted
+at time1710345955, 1020 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.555084
+at time1710345955, 858 Spheres inserted
+at time1710345955, current voxel:1293
+at time1710345955, 946 Spheres inserted
+at time1710345955, current voxel:299
+at time1710345955, 961 Spheres inserted
+at time1710345955, current voxel:191
+at time1710345955, 976 Spheres inserted
+at time1710345955, current voxel:96
+at time1710345955, 986 Spheres inserted
+at time1710345955, current voxel:59
+at time1710345955, 989 Spheres inserted
+at time1710345955, current voxel:36
+at time1710345955, 993 Spheres inserted
+at time1710345955, current voxel:17
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:5
+at time1710345955, 997 Spheres inserted
+at time1710345955, 997 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542567
+at time1710345955, 856 Spheres inserted
+at time1710345955, current voxel:1360
+at time1710345955, 968 Spheres inserted
+at time1710345955, current voxel:294
+at time1710345955, 983 Spheres inserted
+at time1710345955, current voxel:157
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:86
+at time1710345955, 1004 Spheres inserted
+at time1710345955, current voxel:56
+at time1710345955, 1012 Spheres inserted
+at time1710345955, current voxel:35
+at time1710345955, 1014 Spheres inserted
+at time1710345955, current voxel:19
+at time1710345955, 1015 Spheres inserted
+at time1710345955, current voxel:14
+at time1710345955, 1017 Spheres inserted
+at time1710345955, 1017 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.553451
+at time1710345955, 852 Spheres inserted
+at time1710345955, current voxel:1391
+at time1710345955, 963 Spheres inserted
+at time1710345955, current voxel:257
+at time1710345955, 971 Spheres inserted
+at time1710345955, current voxel:177
+at time1710345955, 984 Spheres inserted
+at time1710345955, current voxel:89
+at time1710345955, 992 Spheres inserted
+at time1710345955, current voxel:49
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:42
+at time1710345955, 1000 Spheres inserted
+at time1710345955, current voxel:24
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:9
+at time1710345955, 1002 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 1003 Spheres inserted
+at time1710345955, current voxel:11
+at time1710345955, 1004 Spheres inserted
+at time1710345955, 1004 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546377
+at time1710345955, 861 Spheres inserted
+at time1710345955, current voxel:1318
+at time1710345955, 946 Spheres inserted
+at time1710345955, current voxel:326
+at time1710345955, 968 Spheres inserted
+at time1710345955, current voxel:164
+at time1710345955, 980 Spheres inserted
+at time1710345955, current voxel:83
+at time1710345955, 983 Spheres inserted
+at time1710345955, current voxel:61
+at time1710345955, 991 Spheres inserted
+at time1710345955, current voxel:27
+at time1710345955, 992 Spheres inserted
+at time1710345955, current voxel:19
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:7
+at time1710345955, 994 Spheres inserted
+at time1710345955, current voxel:10
+at time1710345955, 996 Spheres inserted
+at time1710345955, current voxel:1
+at time1710345955, 996 Spheres inserted
+at time1710345955, 996 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.542023
+at time1710345955, 842 Spheres inserted
+at time1710345956, current voxel:1422
+at time1710345956, 957 Spheres inserted
+at time1710345956, current voxel:318
+at time1710345956, 959 Spheres inserted
+at time1710345956, current voxel:251
+at time1710345956, 984 Spheres inserted
+at time1710345956, current voxel:97
+at time1710345956, 990 Spheres inserted
+at time1710345956, current voxel:60
+at time1710345956, 996 Spheres inserted
+at time1710345956, current voxel:37
+at time1710345956, 997 Spheres inserted
+at time1710345956, current voxel:33
+at time1710345956, 1000 Spheres inserted
+at time1710345956, current voxel:8
+at time1710345956, 1001 Spheres inserted
+at time1710345956, current voxel:7
+at time1710345956, 1002 Spheres inserted
+at time1710345956, current voxel:2
+at time1710345956, 1002 Spheres inserted
+at time1710345956, current voxel:2
+at time1710345956, 1002 Spheres inserted
+at time1710345956, current voxel:3
+at time1710345956, 1002 Spheres inserted
+at time1710345956, current voxel:2
+at time1710345956, 1002 Spheres inserted
+at time1710345956, current voxel:8
+at time1710345956, 1003 Spheres inserted
+at time1710345956, 1003 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.545833
+at time1710345956, 866 Spheres inserted
+at time1710345956, current voxel:1327
+at time1710345956, 973 Spheres inserted
+at time1710345956, current voxel:260
+at time1710345956, 992 Spheres inserted
+at time1710345956, current voxel:142
+at time1710345956, 1000 Spheres inserted
+at time1710345956, current voxel:82
+at time1710345956, 1006 Spheres inserted
+at time1710345956, current voxel:57
+at time1710345956, 1016 Spheres inserted
+at time1710345956, current voxel:8
+at time1710345956, 1018 Spheres inserted
+at time1710345956, current voxel:1
+at time1710345956, 1018 Spheres inserted
+at time1710345956, current voxel:1
+at time1710345956, 1018 Spheres inserted
+at time1710345956, 1018 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.553996
+at time1710345956, 863 Spheres inserted
+at time1710345956, current voxel:1322
+at time1710345956, 958 Spheres inserted
+at time1710345956, current voxel:299
+at time1710345956, 981 Spheres inserted
+at time1710345956, current voxel:171
+at time1710345956, 997 Spheres inserted
+at time1710345956, current voxel:89
+at time1710345956, 1000 Spheres inserted
+at time1710345956, current voxel:68
+at time1710345956, 1009 Spheres inserted
+at time1710345956, current voxel:20
+at time1710345956, 1009 Spheres inserted
+at time1710345956, current voxel:18
+at time1710345956, 1011 Spheres inserted
+at time1710345956, current voxel:14
+at time1710345956, 1012 Spheres inserted
+at time1710345956, current voxel:1
+at time1710345956, 1012 Spheres inserted
+at time1710345956, 1012 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.55073
+at time1710345956, 859 Spheres inserted
+at time1710345956, current voxel:1349
+at time1710345956, 950 Spheres inserted
+at time1710345956, current voxel:320
+at time1710345956, 978 Spheres inserted
+at time1710345956, current voxel:142
+at time1710345956, 994 Spheres inserted
+at time1710345956, current voxel:52
+at time1710345956, 997 Spheres inserted
+at time1710345956, current voxel:32
+at time1710345956, 1005 Spheres inserted
+at time1710345956, current voxel:4
+at time1710345956, 1005 Spheres inserted
+at time1710345956, current voxel:1
+at time1710345956, 1005 Spheres inserted
+at time1710345956, current voxel:1
+at time1710345956, 1005 Spheres inserted
+at time1710345956, 1005 Spheres inserted
+r=0.0131615
+Volume of a Sphere:0.0005442
+Density:0.546921

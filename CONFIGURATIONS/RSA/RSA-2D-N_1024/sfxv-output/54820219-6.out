@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/sd2402/gpu_stats/master.py", line 140, in <module>
+    sf = sf2Dmain(config_dir, file_index, radius, the_parser=parser)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sd2402/gpu_stats/master.py", line 101, in sf2Dmain
+    COORDS = cuda.to_device(coords)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sd2402/.conda/envs/jaeuk/lib/python3.11/site-packages/numba/cuda/cudadrv/devices.py", line 231, in _require_cuda_context
+    with _runtime.ensure_context():
+  File "/home/sd2402/.conda/envs/jaeuk/lib/python3.11/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/sd2402/.conda/envs/jaeuk/lib/python3.11/site-packages/numba/cuda/cudadrv/devices.py", line 121, in ensure_context
+    with driver.get_active_context():
+  File "/home/sd2402/.conda/envs/jaeuk/lib/python3.11/site-packages/numba/cuda/cudadrv/driver.py", line 495, in __enter__
+    driver.cuCtxGetCurrent(byref(hctx))
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sd2402/.conda/envs/jaeuk/lib/python3.11/site-packages/numba/cuda/cudadrv/driver.py", line 295, in __getattr__
+    raise CudaSupportError("Error at driver init: \n%s:" %
+numba.cuda.cudadrv.error.CudaSupportError: Error at driver init: 
+
+CUDA driver library cannot be found.
+If you are sure that a CUDA driver is installed,
+try setting environment variable NUMBA_CUDA_DRIVER
+with the file path of the CUDA driver shared library.
+:
+srun: error: della-h17n4: task 0: Exited with exit code 1
+srun: Terminating StepId=54820233.0
