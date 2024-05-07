@@ -12,7 +12,7 @@ MACHINE = ADROIT
 #==============================
 # DELLA
 #==============================
-ifeq ($(MACHINE), DELLA)
+ifeq ($(MACHINE), ADROIT)
 $(info	$(MACHINE))
 #----- Directories ------------
 IDIR = -I/usr/local/include/ -I/usr/include/ #-I/home/jaeukk/install/include # include directory
@@ -24,9 +24,9 @@ TARGET = $(EXEdir)soft_core_stealthy2.out #stitch.out
 
 #----- Flags and libraries -----
 GSLLIB = -L/usr/lib64 -lgsl -lgslcblas
-NLOPTLIB = -L/usr/lib64 -lnlopt 
+# NLOPTLIB = -L/usr/lib64 -lnlopt 
 HDF5LIB = -L/usr/lib64 -lhdf5 #a shot in the absolute pitch black and I think it worked
-LIBS = -lm $(GSLLIB) $(NLOPTLIB) $(HDF5LIB)
+LIBS = -lm $(GSLLIB) $(HDF5LIB)
 PREPRO = -DDELLA
 endif
 
@@ -64,12 +64,12 @@ $(info	$(CFLAGS))
 $(info	$(LFLAGS))
 
 objs_core = GeometryVector.o RandomGenerator.o etc.o PeriodicCellList.o StructureFactor.o PairCorrelation.o
-objs_pot = Potential.o StructureOptimization.o MD_System.o
+objs_pot = Potential.o StructureOptimization.o #MD_System.o
 objs_main = main.o
 
 DEPS = ../GeometryVector.h ../RandomGenerator.h ../etc.h ../PeriodicCellList.h ../StructureFactor.h ../PairCorrelation.h \
 ../Potential.h ../CollectiveCoordinatePotential.h ../StructureOptimization.h \
-RepulsiveCCPotential.h ../MD_System.h
+RepulsiveCCPotential.h #../MD_System.h
 
 #  ../GenerateConfigs.h ../HardSphereFluids.h ../RandomSequentialAddition.h
 

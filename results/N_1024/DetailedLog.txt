@@ -1,0 +1,200 @@
+
+AT 'TIME' 1, GENERATING CONFIG 0
+ -> Add to intermediate pack(s)
+E_relax=7.38184e-29 -> Add to success pack(s)
+
+AT 'TIME' 100, GENERATING CONFIG 1
+ -> Add to intermediate pack(s)
+E_relax=1.70409e-26 -> Add to success pack(s)
+
+AT 'TIME' 181, GENERATING CONFIG 2
+ -> Add to intermediate pack(s)
+E_relax=9.13261e-29 -> Add to success pack(s)
+
+AT 'TIME' 277, GENERATING CONFIG 3
+ -> Add to intermediate pack(s)
+E_relax=5.81732e-27 -> Add to success pack(s)
+
+AT 'TIME' 347, GENERATING CONFIG 4
+ -> Add to intermediate pack(s)
+E_relax=4.18116e-26 -> Add to success pack(s)
+
+AT 'TIME' 430, GENERATING CONFIG 5
+ -> Add to intermediate pack(s)
+E_relax=2.39129e-28 -> Add to success pack(s)
+
+AT 'TIME' 509, GENERATING CONFIG 6
+ -> Add to intermediate pack(s)
+E_relax=8.38274e-26 -> Add to success pack(s)
+
+AT 'TIME' 586, GENERATING CONFIG 7
+ -> Add to intermediate pack(s)
+E_relax=1.0687e-27 -> Add to success pack(s)
+
+AT 'TIME' 674, GENERATING CONFIG 8
+ -> Add to intermediate pack(s)
+E_relax=3.35935e-28 -> Add to success pack(s)
+
+AT 'TIME' 751, GENERATING CONFIG 9
+ -> Add to intermediate pack(s)
+E_relax=1.83838e-27 -> Add to success pack(s)
+
+AT 'TIME' 834, GENERATING CONFIG 10
+ -> Add to intermediate pack(s)
+E_relax=8.07529e-28 -> Add to success pack(s)
+
+AT 'TIME' 919, GENERATING CONFIG 11
+ -> Add to intermediate pack(s)
+E_relax=4.54629e-27 -> Add to success pack(s)
+
+AT 'TIME' 1001, GENERATING CONFIG 12
+ -> Add to intermediate pack(s)
+E_relax=3.95422e-27 -> Add to success pack(s)
+
+AT 'TIME' 1087, GENERATING CONFIG 13
+ -> Add to intermediate pack(s)
+E_relax=1.02409e-26 -> Add to success pack(s)
+
+AT 'TIME' 1176, GENERATING CONFIG 14
+ -> Add to intermediate pack(s)
+E_relax=1.72922e-28 -> Add to success pack(s)
+
+AT 'TIME' 1258, GENERATING CONFIG 15
+ -> Add to intermediate pack(s)
+E_relax=4.88196e-26 -> Add to success pack(s)
+
+AT 'TIME' 1347, GENERATING CONFIG 16
+ -> Add to intermediate pack(s)
+E_relax=5.34762e-27 -> Add to success pack(s)
+
+AT 'TIME' 1428, GENERATING CONFIG 17
+ -> Add to intermediate pack(s)
+E_relax=5.24655e-28 -> Add to success pack(s)
+
+AT 'TIME' 1524, GENERATING CONFIG 18
+ -> Add to intermediate pack(s)
+E_relax=2.63745e-27 -> Add to success pack(s)
+
+AT 'TIME' 1599, GENERATING CONFIG 19
+ -> Add to intermediate pack(s)
+E_relax=1.91694e-27 -> Add to success pack(s)
+
+AT 'TIME' 1680, GENERATING CONFIG 20
+ -> Add to intermediate pack(s)
+E_relax=7.17596e-28 -> Add to success pack(s)
+
+AT 'TIME' 1759, GENERATING CONFIG 21
+ -> Add to intermediate pack(s)
+E_relax=2.31353e-27 -> Add to success pack(s)
+
+AT 'TIME' 1843, GENERATING CONFIG 22
+ -> Add to intermediate pack(s)
+E_relax=1.16202e-27 -> Add to success pack(s)
+
+AT 'TIME' 1926, GENERATING CONFIG 23
+ -> Add to intermediate pack(s)
+E_relax=1.3513e-26 -> Add to success pack(s)
+
+AT 'TIME' 2002, GENERATING CONFIG 24
+ -> Add to intermediate pack(s)
+E_relax=7.92273e-28 -> Add to success pack(s)
+
+AT 'TIME' 2088, GENERATING CONFIG 25
+ -> Add to intermediate pack(s)
+E_relax=1.36524e-27 -> Add to success pack(s)
+
+AT 'TIME' 2168, GENERATING CONFIG 26
+ -> Add to intermediate pack(s)
+E_relax=8.51515e-26 -> Add to success pack(s)
+
+AT 'TIME' 2255, GENERATING CONFIG 27
+ -> Add to intermediate pack(s)
+E_relax=4.38211e-27 -> Add to success pack(s)
+
+AT 'TIME' 2340, GENERATING CONFIG 28
+ -> Add to intermediate pack(s)
+E_relax=1.70401e-26 -> Add to success pack(s)
+
+AT 'TIME' 2425, GENERATING CONFIG 29
+ -> Add to intermediate pack(s)
+E_relax=1.67857e-25 -> Add to success pack(s)
+
+AT 'TIME' 2503, GENERATING CONFIG 30
+ -> Add to intermediate pack(s)
+E_relax=2.72831e-27 -> Add to success pack(s)
+
+AT 'TIME' 2584, GENERATING CONFIG 31
+ -> Add to intermediate pack(s)
+E_relax=1.19259e-26 -> Add to success pack(s)
+
+AT 'TIME' 2660, GENERATING CONFIG 32
+ -> Add to intermediate pack(s)
+E_relax=4.10449e-27 -> Add to success pack(s)
+
+AT 'TIME' 2741, GENERATING CONFIG 33
+ -> Add to intermediate pack(s)
+E_relax=9.16743e-27 -> Add to success pack(s)
+
+AT 'TIME' 2826, GENERATING CONFIG 34
+ -> Add to intermediate pack(s)
+E_relax=8.90525e-29 -> Add to success pack(s)
+
+AT 'TIME' 2916, GENERATING CONFIG 35
+ -> Add to intermediate pack(s)
+E_relax=3.37442e-25 -> Add to success pack(s)
+
+AT 'TIME' 2988, GENERATING CONFIG 36
+ -> Add to intermediate pack(s)
+E_relax=3.33524e-28 -> Add to success pack(s)
+
+AT 'TIME' 3083, GENERATING CONFIG 37
+ -> Add to intermediate pack(s)
+E_relax=1.60091e-26 -> Add to success pack(s)
+
+AT 'TIME' 3165, GENERATING CONFIG 38
+ -> Add to intermediate pack(s)
+E_relax=4.00286e-27 -> Add to success pack(s)
+
+AT 'TIME' 3248, GENERATING CONFIG 39
+ -> Add to intermediate pack(s)
+E_relax=1.99295e-27 -> Add to success pack(s)
+
+AT 'TIME' 3326, GENERATING CONFIG 40
+ -> Add to intermediate pack(s)
+E_relax=2.79565e-27 -> Add to success pack(s)
+
+AT 'TIME' 3410, GENERATING CONFIG 41
+ -> Add to intermediate pack(s)
+E_relax=3.39892e-26 -> Add to success pack(s)
+
+AT 'TIME' 3495, GENERATING CONFIG 42
+ -> Add to intermediate pack(s)
+E_relax=5.75999e-25 -> Add to success pack(s)
+
+AT 'TIME' 3575, GENERATING CONFIG 43
+ -> Add to intermediate pack(s)
+E_relax=1.5762e-26 -> Add to success pack(s)
+
+AT 'TIME' 3643, GENERATING CONFIG 44
+ -> Add to intermediate pack(s)
+E_relax=6.08167e-28 -> Add to success pack(s)
+
+AT 'TIME' 3717, GENERATING CONFIG 45
+ -> Add to intermediate pack(s)
+E_relax=9.16581e-28 -> Add to success pack(s)
+
+AT 'TIME' 3796, GENERATING CONFIG 46
+ -> Add to intermediate pack(s)
+E_relax=5.85705e-28 -> Add to success pack(s)
+
+AT 'TIME' 3873, GENERATING CONFIG 47
+ -> Add to intermediate pack(s)
+E_relax=7.67151e-29 -> Add to success pack(s)
+
+AT 'TIME' 3970, GENERATING CONFIG 48
+ -> Add to intermediate pack(s)
+E_relax=1.18426e-25 -> Add to success pack(s)
+
+AT 'TIME' 4050, GENERATING CONFIG 49
+ -> Add to intermediate pack(s)
+E_relax=1.05299e-26 -> Add to success pack(s)

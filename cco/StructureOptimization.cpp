@@ -177,22 +177,22 @@ bool StructureOptimization_SaveNumberedConfiguration = false;
 
 // codes related to elastic constants
 // \epsilon_{ij}=C_{ijkl}*e_{kl}
-void PrintAllElasticConstants(std::ostream & out, Configuration stru, Potential & pot, double Pressure, bool InfTime, double * presult) {
-	DimensionType dim = stru.GetDimension();
+// void PrintAllElasticConstants(std::ostream & out, Configuration stru, Potential & pot, double Pressure, bool InfTime, double * presult) {
+// 	DimensionType dim = stru.GetDimension();
 
-	//RelaxStructure(stru, pot, Pressure, 0.0);
+// 	//RelaxStructure(stru, pot, Pressure, 0.0);
 
-	for (DimensionType i = 0; i<dim; i++)
-		for (DimensionType j = 0; j<dim; j++)
-			for (DimensionType k = 0; k<dim; k++)
-				for (DimensionType l = 0; l < dim; l++)
-				{
-					double c = ElasticConstant(pot, stru, i, j, k, l, Pressure, InfTime);
-					out << "C" << i << j << k << l << "=" << c << '\n';
-					if (presult != nullptr)
-						presult[i*dim*dim*dim + j*dim*dim + k*dim + l] = c;
-				}
-}
+// 	for (DimensionType i = 0; i<dim; i++)
+// 		for (DimensionType j = 0; j<dim; j++)
+// 			for (DimensionType k = 0; k<dim; k++)
+// 				for (DimensionType l = 0; l < dim; l++)
+// 				{
+// 					double c = ElasticConstant(pot, stru, i, j, k, l, Pressure, InfTime);
+// 					out << "C" << i << j << k << l << "=" << c << '\n';
+// 					if (presult != nullptr)
+// 						presult[i*dim*dim*dim + j*dim*dim + k*dim + l] = c;
+// 				}
+// }
 
 double EnergyDerivativeToDeformation(Potential & pot, Configuration structure, DimensionType i, DimensionType j, double epsilon2, double Pressure, GeometryVector * newbasis) {
 	DimensionType dim=structure.GetDimension(); 
@@ -235,37 +235,37 @@ double EnergyDerivativeToDeformation(Potential & pot, Configuration structure, D
 	}
 }
 
-double ElasticConstant(Potential & pot, Configuration structure, DimensionType i, DimensionType j, DimensionType k, DimensionType l, double Pressure, bool InfiniteTime)
-{
-	const double epsilon1 = 1e-6;
-	const double epsilon2=1e-9;
+// double ElasticConstant(Potential & pot, Configuration structure, DimensionType i, DimensionType j, DimensionType k, DimensionType l, double Pressure, bool InfiniteTime)
+// {
+// 	const double epsilon1 = 1e-6;
+// 	const double epsilon2=1e-9;
 
-	DimensionType dim = structure.GetDimension(); 
-	assert(i < dim);
-	assert(j < dim);
-	assert(k < dim);
-	assert(l < dim);
-	double Volume=structure.PeriodicVolume();
-	GeometryVector newbasis[::MaxDimension];
+// 	DimensionType dim = structure.GetDimension(); 
+// 	assert(i < dim);
+// 	assert(j < dim);
+// 	assert(k < dim);
+// 	assert(l < dim);
+// 	double Volume=structure.PeriodicVolume();
+// 	GeometryVector newbasis[::MaxDimension];
 
-	// deform structure so that strain_{kl}=epsilon1
-	for (DimensionType t = 0; t < dim; t++) {
-		newbasis[t]=structure.GetBasisVector(t);
-		double temp=newbasis[t].x[k];
-		newbasis[t].x[k]+=epsilon1*newbasis[t].x[l];
-	}
+// 	// deform structure so that strain_{kl}=epsilon1
+// 	for (DimensionType t = 0; t < dim; t++) {
+// 		newbasis[t]=structure.GetBasisVector(t);
+// 		double temp=newbasis[t].x[k];
+// 		newbasis[t].x[k]+=epsilon1*newbasis[t].x[l];
+// 	}
 
-	double PrevDerivative = EnergyDerivativeToDeformation(pot, structure, i, j, epsilon2, Pressure, newbasis);
+// 	double PrevDerivative = EnergyDerivativeToDeformation(pot, structure, i, j, epsilon2, Pressure, newbasis);
 
-	structure.ChangeBasisVector(&newbasis[0]);
-	if (InfiniteTime) {
-		std::cout << "Relax structure to calculate infinite-time elastic constant.\n";	
-		RelaxStructure_NLOPT(structure, pot, Pressure, 0, 0.0);
-	}
+// 	structure.ChangeBasisVector(&newbasis[0]);
+// 	if (InfiniteTime) {
+// 		std::cout << "Relax structure to calculate infinite-time elastic constant.\n";	
+// 		RelaxStructure_NLOPT(structure, pot, Pressure, 0, 0.0);
+// 	}
 
-	double AfterDerivative = EnergyDerivativeToDeformation(pot, structure, i, j, epsilon2, Pressure, newbasis);
-	return (AfterDerivative - PrevDerivative) / Volume / epsilon1;
-}
+// 	double AfterDerivative = EnergyDerivativeToDeformation(pot, structure, i, j, epsilon2, Pressure, newbasis);
+// 	return (AfterDerivative - PrevDerivative) / Volume / epsilon1;
+// }
 
 // EulerAngles should have size d(d-1)/2
 gsl_matrix * GetRotation(std::vector<double> EulerAngles, int d)
@@ -1804,12 +1804,12 @@ void runMINOP79(const OptimFunc& function, const gsl_vector* startPos, gsl_vecto
 				// otherwise cut the step size in half and go back to Step 1
 				f_xa = function.evalF(v_xa);
 				if (f_xa <= f_x) {
-					if (iter < 400 || iter % pfp == 0) {
+					if (iter % pfp == 0) {
 						// elements of v_dx stored as 'x1 x2 ... xN y1 y2 ... yN' in series i.e. as a contiguous 1D array
 						current_ss = gsl_blas_dnrm2(v_dx);
 
 						std::cout << "\nITERATION NO=" << iter << ",OBJ_FUNC=" << f_xa;
-						std::cout << ",STEP_SIZE=" << std::setprecision(4) << std::scientific << current_ss << ",CONFIG=\n";
+						std::cout << ",STEP_SIZE=" << std::setprecision(4) << std::scientific << current_ss << ",CONFIG=";
 						// gsl_vector_fprintf(stdout, v_xa, "%1.10e");
 					}
 					break;

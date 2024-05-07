@@ -12,7 +12,29 @@ import numpy as np
 import numba as nb
 import numpy.linalg as la
 
-from utils.geom import stringify
+##################################################
+# MISCELLANEOUS
+##################################################
+def stringify(V: np.array, new_d: int=4) -> list:
+    """
+    Stringify V lattice vectors to 4D (a la CCOptimization) for writing to output files
+    Args
+        V = (n, d) lattice vectors
+        new_d = 'dimension' of output basis vectors
+    Returns
+        res = (1, d) list of strings containing lattice vectors
+    """
+    res = []
+    for v in V:
+        line = ""
+        svector = [str(norm) for norm in v]
+        if len(svector) < new_d:
+            svector += ["0.0" for _ in range(new_d-len(svector))]
+        svector = np.asarray(svector).ravel()
+        for sv in svector:
+            line += sv + "\t"
+        res.append(line)
+    return res
 
 @nb.njit(fastmath=True)
 def main(primitive: np.array, num_particles: int) -> np.array:
@@ -56,7 +78,7 @@ if __name__ == "__main__":
 
         pts = main(lv, total_particles)
 
-        outfile = f"POISSON-2D-N_{total_particles:d}-phi_{phi:0.2f}-R_{radius:0.4f}__00{idx}.txt"
+        outfile = f"POISSON-2D-N_{total_particles:d}-config__00{idx}.txt"
         print(f"Writing to ./patterns/{outfile}")
         with open(f"./patterns/{outfile}", "w") as f:
             f.write(f"{dimension}\n")
@@ -71,7 +93,7 @@ if __name__ == "__main__":
     if localtime:
         dimension = 2
         lattice_constant = 1.0
-        N = 55**2 # total number of particles
+        N = 512**2 # total number of particles
         lv = np.array([[lattice_constant*np.sqrt(N), 0], [0, lattice_constant*np.sqrt(N)]]) # make number density == 1
         write_output = True
 
@@ -84,7 +106,7 @@ if __name__ == "__main__":
             pts = main(lv, N)
             
             idx = twodigits(outfile_idx)
-            outfile = f"POISSON-N_{N:d}-config__00{idx}.txt"
+            outfile = f"POISSON-2D-N_{N:d}-config__00{idx}.txt"
 
             if write_output:
                 print(f"Writing to ./{outfile} (random seed={uu})")

@@ -255,47 +255,47 @@ int GetCCO(int argc, char ** argv) {
 		ofile << std::endl;
 
 		if (strcmp (mode, "MD") == 0) {
-			{
-				std::cout << "Performing molecular dynamics simulation..." << std::endl;
-				ConfigurationPack save_(savename);				
-				num_in_save = save_.NumConfig();
-			}
+			// {
+			// 	std::cout << "Performing molecular dynamics simulation..." << std::endl;
+			// 	ConfigurationPack save_(savename);				
+			// 	num_in_save = save_.NumConfig();
+			// }
 
-			/* NVT MD simulations */
-			double MDTimeStep = 0.01;
-			double MDTemperature = 1e-4;
-			size_t MDStepPerSample = 100000; 
+			// /* NVT MD simulations */
+			// double MDTimeStep = 0.01;
+			// double MDTemperature = 1e-4;
+			// size_t MDStepPerSample = 100000; 
 
-			if (dim == 1) {
-				MDTemperature = 2e-4;
+			// if (dim == 1) {
+			// 	MDTemperature = 2e-4;
 
-			} else if (dim == 2) {
-				MDTemperature = 2e-6;
+			// } else if (dim == 2) {
+			// 	MDTemperature = 2e-6;
 
-			} else if (dim == 3) {
-				MDTemperature = 1e-6;
-			}
+			// } else if (dim == 3) {
+			// 	MDTemperature = 1e-6;
+			// }
 
-			if (strcmp (tempstring, "random") == 0){
-				// Start from a random initial condition and basic properties
-				Configuration pConfig = GetInitConfigs(0);
-				bool MDAllowRestore = true;
-				size_t MDEquilibrateSamples = numEquilSamples;
-				bool MDAutoTimeStep = false;
-				CollectiveCoordinateMD(&pConfig, potential, rngGod, MDTimeStep, MDTemperature, savename, numConfig, MDStepPerSample, MDAllowRestore, TimeLimit, MDEquilibrateSamples, MDAutoTimeStep);
-			} else if (strcmp (tempstring, "input") == 0) {
-				// For continue from the latest configuration in the previous run
-				ofile << "MD Temperature = " << MDTemperature << std::endl;
+			// if (strcmp (tempstring, "random") == 0){
+			// 	// Start from a random initial condition and basic properties
+			// 	Configuration pConfig = GetInitConfigs(0);
+			// 	bool MDAllowRestore = true;
+			// 	size_t MDEquilibrateSamples = numEquilSamples;
+			// 	bool MDAutoTimeStep = false;
+			// 	CollectiveCoordinateMD(&pConfig, potential, rngGod, MDTimeStep, MDTemperature, savename, numConfig, MDStepPerSample, MDAllowRestore, TimeLimit, MDEquilibrateSamples, MDAutoTimeStep);
+			// } else if (strcmp (tempstring, "input") == 0) {
+			// 	// For continue from the latest configuration in the previous run
+			// 	ofile << "MD Temperature = " << MDTemperature << std::endl;
 			
-				Configuration pConfig = GetInitConfigs(num_in_load - 1);
-				bool MDAllowRestore = true;
-				size_t MDEquilibrateSamples = numEquilSamples;
-				size_t numConfig_comp = (numConfig > num_in_save)? numConfig - num_in_save : 0 ;
+			// 	Configuration pConfig = GetInitConfigs(num_in_load - 1);
+			// 	bool MDAllowRestore = true;
+			// 	size_t MDEquilibrateSamples = numEquilSamples;
+			// 	size_t numConfig_comp = (numConfig > num_in_save)? numConfig - num_in_save : 0 ;
 				
-				bool MDAutoTimeStep = false;
-				CollectiveCoordinateMD(&pConfig, potential, rngGod, MDTimeStep, MDTemperature, savename, numConfig_comp, MDStepPerSample, MDAllowRestore, TimeLimit, MDEquilibrateSamples, MDAutoTimeStep);
-			//TODO
-			}
+			// 	bool MDAutoTimeStep = false;
+			// 	CollectiveCoordinateMD(&pConfig, potential, rngGod, MDTimeStep, MDTemperature, savename, numConfig_comp, MDStepPerSample, MDAllowRestore, TimeLimit, MDEquilibrateSamples, MDAutoTimeStep);
+			// //TODO
+			// }
 			
 		} else if (strcmp (mode, "ground") == 0) {
 			std::cout << "Optimizing toward ground state..." << std::endl;
@@ -586,129 +586,129 @@ int CollectiveCoordinateMultiRun(Configuration * pConfig, Potential * pPotential
 	return 0;
 }
 
-int CollectiveCoordinateMD(Configuration * pConfig, Potential * pPotential, RandomGenerator & gen, double TimeStep, double Temperature, std::string Prefix, size_t SampleNumber, size_t StepPerSample, bool AllowRestore, time_t TimeLimit, size_t EquilibrateSamples, bool MDAutoTimeStep)
-{
-	ConfigurationPack BeforeRelaxPack(Prefix);
+// int CollectiveCoordinateMD(Configuration * pConfig, Potential * pPotential, RandomGenerator & gen, double TimeStep, double Temperature, std::string Prefix, size_t SampleNumber, size_t StepPerSample, bool AllowRestore, time_t TimeLimit, size_t EquilibrateSamples, bool MDAutoTimeStep)
+// {
+// 	ConfigurationPack BeforeRelaxPack(Prefix);
 
-	size_t OneTenthStepPerSample = StepPerSample/10;
-	if (OneTenthStepPerSample == 0) {
-		OneTenthStepPerSample = 1;
-	}
+// 	size_t OneTenthStepPerSample = StepPerSample/10;
+// 	if (OneTenthStepPerSample == 0) {
+// 		OneTenthStepPerSample = 1;
+// 	}
 
-	// RelaxStructure_NLOPT(*pConfig, *pPotential, 0.0, 0, 0.0, 1000);
-	DimensionType dim = pConfig->GetDimension();
-	size_t Num = pConfig->NumParticle();
-	size_t dimTensor = dim*Num;
-	Potential * pPot=pPotential;
-	pPot->SetConfiguration(* pConfig);
-	double E = pPot->Energy();
-	ParticleMolecularDynamics * psystem = NULL;
+// 	// RelaxStructure_NLOPT(*pConfig, *pPotential, 0.0, 0, 0.0, 1000);
+// 	DimensionType dim = pConfig->GetDimension();
+// 	size_t Num = pConfig->NumParticle();
+// 	size_t dimTensor = dim*Num;
+// 	Potential * pPot=pPotential;
+// 	pPot->SetConfiguration(* pConfig);
+// 	double E = pPot->Energy();
+// 	ParticleMolecularDynamics * psystem = NULL;
 
-	bool Restart = false;
-	signed char stage = 0;
-	long long step = 0;
+// 	bool Restart = false;
+// 	signed char stage = 0;
+// 	long long step = 0;
 
-	if (AllowRestore) {
-		std::fstream ifile( Prefix+std::string(".MDDump"), std::fstream::in | std::fstream::binary);
+// 	if (AllowRestore) {
+// 		std::fstream ifile( Prefix+std::string(".MDDump"), std::fstream::in | std::fstream::binary);
 
-		if (ifile.good()) {
-			ifile.read( (char*)(&stage), sizeof(stage) );
-			ifile.read( (char*)(&step), sizeof(step) );
-			psystem = new ParticleMolecularDynamics(ifile);
-			Restart=true;
-			std::cout << "Continue from " << Prefix+std::string(".MDDump") <<"\n";
-		}
-	}
+// 		if (ifile.good()) {
+// 			ifile.read( (char*)(&stage), sizeof(stage) );
+// 			ifile.read( (char*)(&step), sizeof(step) );
+// 			psystem = new ParticleMolecularDynamics(ifile);
+// 			Restart=true;
+// 			std::cout << "Continue from " << Prefix+std::string(".MDDump") <<"\n";
+// 		}
+// 	}
 
-	if (Restart == false) {
-		BeforeRelaxPack.Clear();
-		psystem = new ParticleMolecularDynamics(*pConfig, TimeStep, 1.0); 
-	}
+// 	if (Restart == false) {
+// 		BeforeRelaxPack.Clear();
+// 		psystem = new ParticleMolecularDynamics(*pConfig, TimeStep, 1.0); 
+// 	}
 
-	size_t NumExistConfig=0;
-	std::cout<<"CCMD start. Temperature="<<Temperature<<'\n';
-	logfile<<"CCMD start. Temperature="<<Temperature<<'\n';
+// 	size_t NumExistConfig=0;
+// 	std::cout<<"CCMD start. Temperature="<<Temperature<<'\n';
+// 	logfile<<"CCMD start. Temperature="<<Temperature<<'\n';
 	
-	if (stage == 0) {
-		stage++;
-		step = 0;
-	}
+// 	if (stage == 0) {
+// 		stage++;
+// 		step = 0;
+// 	}
 
-	if (stage == 1) {
-		for (long long i = step; i < EquilibrateSamples; i++) {
-			if (std::time(nullptr) > TimeLimit || std::time(nullptr) > ::TimeLimit) {
-				std::fstream ofile( Prefix+std::string(".MDDump"), std::fstream::out | std::fstream::binary);
-				ofile.write( (char*)(&stage), sizeof(stage) );
-				ofile.write( (char*)(&i), sizeof(i) );
-				psystem->WriteBinary(ofile);
-				delete psystem;
+// 	if (stage == 1) {
+// 		for (long long i = step; i < EquilibrateSamples; i++) {
+// 			if (std::time(nullptr) > TimeLimit || std::time(nullptr) > ::TimeLimit) {
+// 				std::fstream ofile( Prefix+std::string(".MDDump"), std::fstream::out | std::fstream::binary);
+// 				ofile.write( (char*)(&stage), sizeof(stage) );
+// 				ofile.write( (char*)(&i), sizeof(i) );
+// 				psystem->WriteBinary(ofile);
+// 				delete psystem;
 
-				std::fstream ofile2( Prefix+std::string("_continue.txt"), std::fstream::out);
-				ofile2<<"Not Completed. Please run again\n";
+// 				std::fstream ofile2( Prefix+std::string("_continue.txt"), std::fstream::out);
+// 				ofile2<<"Not Completed. Please run again\n";
 
-				return 0;
-			}
+// 				return 0;
+// 			}
 
-			double c0 = psystem->Position.GetCartesianCoordinates(0).x[0];
+// 			double c0 = psystem->Position.GetCartesianCoordinates(0).x[0];
 
-			for (size_t ii = 0; ii < 2; ii++) {
-				psystem->SetRandomSpeed(Temperature, gen);
-				if (MDAutoTimeStep) {	
-					psystem->Evolve_AutoTimeStep(StepPerSample/2, *pPot, 0.0001/SampleNumber);
+// 			for (size_t ii = 0; ii < 2; ii++) {
+// 				psystem->SetRandomSpeed(Temperature, gen);
+// 				if (MDAutoTimeStep) {	
+// 					psystem->Evolve_AutoTimeStep(StepPerSample/2, *pPot, 0.0001/SampleNumber);
 
-				} else {
-					psystem->Evolve(StepPerSample/2, *pPot);
-				}
-			}
+// 				} else {
+// 					psystem->Evolve(StepPerSample/2, *pPot);
+// 				}
+// 			}
 
-			pPot->SetConfiguration(psystem->Position);
-			std::cout << "1:" << i << "/" << (EquilibrateSamples) << ", x0=" << psystem->Position.GetCartesianCoordinates(0).x[0] << ", Ep=" << pPot->Energy() << ", Ek=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';;
-			logfile << "1:" << i << "/" << (EquilibrateSamples) << ", x0=" << psystem->Position.GetCartesianCoordinates(0).x[0] << ", Ep=" << pPot->Energy() << ", Ek=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';;
-			std::cout.flush();
-		}
+// 			pPot->SetConfiguration(psystem->Position);
+// 			std::cout << "1:" << i << "/" << (EquilibrateSamples) << ", x0=" << psystem->Position.GetCartesianCoordinates(0).x[0] << ", Ep=" << pPot->Energy() << ", Ek=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';;
+// 			logfile << "1:" << i << "/" << (EquilibrateSamples) << ", x0=" << psystem->Position.GetCartesianCoordinates(0).x[0] << ", Ep=" << pPot->Energy() << ", Ek=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';;
+// 			std::cout.flush();
+// 		}
 
-		stage++;
-		step = 0;
-	}
+// 		stage++;
+// 		step = 0;
+// 	}
 
-	// stage 2: sample
-	for (long long i = step; i < SampleNumber; i++) {
-		if (std::time(nullptr) > TimeLimit || std::time(nullptr) > ::TimeLimit) {
-			std::fstream ofile( Prefix + std::string(".MDDump"), std::fstream::out | std::fstream::binary);
-			ofile.write( (char*)(&stage), sizeof(stage) );
-			ofile.write( (char*)(&i), sizeof(i) );
-			psystem->WriteBinary(ofile);
-			delete psystem;
+// 	// stage 2: sample
+// 	for (long long i = step; i < SampleNumber; i++) {
+// 		if (std::time(nullptr) > TimeLimit || std::time(nullptr) > ::TimeLimit) {
+// 			std::fstream ofile( Prefix + std::string(".MDDump"), std::fstream::out | std::fstream::binary);
+// 			ofile.write( (char*)(&stage), sizeof(stage) );
+// 			ofile.write( (char*)(&i), sizeof(i) );
+// 			psystem->WriteBinary(ofile);
+// 			delete psystem;
 
-			std::fstream ofile2("continue.txt", std::fstream::out);
-			ofile2 << "Not Completed. Please run again\n";
+// 			std::fstream ofile2("continue.txt", std::fstream::out);
+// 			ofile2 << "Not Completed. Please run again\n";
 
-			return 0;
-		}
+// 			return 0;
+// 		}
 
-		std::cout << "at time" << std::time(nullptr)-ProgramStart;
-		logfile << "at time" << std::time(nullptr)-ProgramStart;
-		psystem->AndersonEvolve(StepPerSample/2, *pPot, Temperature, 0.01, gen);
-		psystem->Evolve(StepPerSample/2, *pPot);
+// 		std::cout << "at time" << std::time(nullptr)-ProgramStart;
+// 		logfile << "at time" << std::time(nullptr)-ProgramStart;
+// 		psystem->AndersonEvolve(StepPerSample/2, *pPot, Temperature, 0.01, gen);
+// 		psystem->Evolve(StepPerSample/2, *pPot);
 
-		Configuration result(psystem->Position);
+// 		Configuration result(psystem->Position);
 		
-		pPot->SetConfiguration(result);
-		std::cout << ", 2:" << i << "/" << (SampleNumber) << " \tE_relax=" << pPot->Energy() << " \t";
-		logfile << ", 2:" << i << "/" << (SampleNumber) << " \tE_relax=" << pPot->Energy() << " \t";
-		pPot->SetConfiguration(psystem->Position);
+// 		pPot->SetConfiguration(result);
+// 		std::cout << ", 2:" << i << "/" << (SampleNumber) << " \tE_relax=" << pPot->Energy() << " \t";
+// 		logfile << ", 2:" << i << "/" << (SampleNumber) << " \tE_relax=" << pPot->Energy() << " \t";
+// 		pPot->SetConfiguration(psystem->Position);
 
-		std::cout << "E_p=" << pPot->Energy() << " \t";
-		logfile << "E_p=" << pPot->Energy() << " \t";
+// 		std::cout << "E_p=" << pPot->Energy() << " \t";
+// 		logfile << "E_p=" << pPot->Energy() << " \t";
 
-		std::cout << "E_k=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';
-		logfile << "E_k=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';
+// 		std::cout << "E_k=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';
+// 		logfile << "E_k=" << psystem->GetKineticEnergy() << ", dt=" << psystem->TimeStep << '\n';
 
-		BeforeRelaxPack.AddConfig(result);
+// 		BeforeRelaxPack.AddConfig(result);
 
-		std::cout.flush();
-	}
-	delete psystem;
+// 		std::cout.flush();
+// 	}
+// 	delete psystem;
 
-	return 0;
-}
+// 	return 0;
+// }
