@@ -1,8 +1,9 @@
 """
 Script for generating 2D Uniformly Randomized Lattice (URL) packings of hard spheres
 We njit the heck out of this procedure so it'll be pretty fast up to 100**2 particles
+
 Sam Dawley
-2/28/24
+5/2024
 
 Refs
 - M. A. Klatt, J. Kim, and S. Torquato, Cloaking the Underlying Long-Range Order of Randomly Perturbed Lattices, Physical Review E, 101 032118 (2020).

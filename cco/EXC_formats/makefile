@@ -1,23 +1,13 @@
-#=============================
-# Makefile to compile a simple file format manager
-# for converting a ConfigPack file to txt-format files, and vice versa.
-#
-# Author: Jaeuk Kim
-# Date: September 2020
-# Email: phy000.kim@gmail.com
-#=============================
-
-#MACHINE = HOME
-MACHINE = DELLA
+MACHINE = ADROIT
 
 #==============================
 # DELLA
 #==============================
-ifeq ($(MACHINE),DELLA)
+ifeq ($(MACHINE),ADROIT)
 #----- Directories ------------
 IDIR = /usr/local/include/# include directory
 ODIR = ../obj/# object directory
-EXEdir = /home/sd2402/SP24/APC523/sd2402-Final-Project/cco/EXC/# directory for executables
+EXEdir = ./EXC/# directory for executables
 
 #	Executable
 TARGET = $(EXEdir)manager.out
@@ -26,27 +16,6 @@ TARGET = $(EXEdir)manager.out
 GSLLIB = -lgsl -lgslcblas
 LIBS = -lm $(GSLLIB)
 endif
-
-#==============================
-# MY LAPTOP
-#==============================
-ifeq ($(MACHINE), HOME)
-$(info	$(MACHINE))
-#----- Directories ------------
-IDIR = -I/usr/include/ -I/home/jaeukk/lib/gsl/include# include directory
-ODIR = ../obj/# object directory
-#SDIR = ./# source directory
-#Idir = ./# header directory
-EXEdir = ~/EXC/# directory for executables
-
-#	Executable
-TARGET = $(EXEdir)te.out#manager.out# output file name
-
-#----- Flags and libraries -----
-GSLLIB = -L/home/jaeukk/lib/gsl/lib -lgsl -lgslcblas -lm
-LIBS = -lm $(GSLLIB) 
-endif
-
 
 #==============================
 #	Common flages
@@ -59,11 +28,6 @@ LFLAGS = -Wall -std=c++0x $(DEBUG) $(LIBS) -O3 -fopenmp
 #==============================
 #	Flags and libraries
 #==============================
-#CC = g++
-#DEBUG = -g
-#GSLLIB = -L/home/jaeukk/lib/gsl/lib -lgsl -lgslcblas -lm
-#LIBS = -lm $(GSLLIB) 
-
 $(info	$(CFLAGS))
 $(info	$(LFLAGS))
 
