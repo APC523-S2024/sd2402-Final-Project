@@ -1,0 +1,41 @@
+
+AT 'TIME' 0, GENERATING CONFIG 0
+ -> Add to intermediate pack(s)
+E_relax=926.471
+AT 'TIME' 347, GENERATING CONFIG 1
+ -> Add to intermediate pack(s)
+E_relax=928.452
+AT 'TIME' 572, GENERATING CONFIG 2
+ -> Add to intermediate pack(s)
+E_relax=935.352
+AT 'TIME' 807, GENERATING CONFIG 3
+ -> Add to intermediate pack(s)
+E_relax=927.221
+AT 'TIME' 1033, GENERATING CONFIG 4
+ -> Add to intermediate pack(s)
+E_relax=938.657
+AT 'TIME' 1218, GENERATING CONFIG 5
+ -> Add to intermediate pack(s)
+E_relax=930.983
+AT 'TIME' 1432, GENERATING CONFIG 6
+ -> Add to intermediate pack(s)
+E_relax=937.765
+AT 'TIME' 1735, GENERATING CONFIG 7
+ -> Add to intermediate pack(s)
+E_relax=917.338
+AT 'TIME' 2070, GENERATING CONFIG 8
+ -> Add to intermediate pack(s)
+E_relax=907.435
+AT 'TIME' 2591, GENERATING CONFIG 9
+ -> Add to intermediate pack(s)
+E_relax=927.936
+AT 'TIME' 2890, GENERATING CONFIG 10
+ -> Add to intermediate pack(s)
+E_relax=916.752
+AT 'TIME' 3264, GENERATING CONFIG 11
+ -> Add to intermediate pack(s)
+E_relax=917.281
+AT 'TIME' 3677, GENERATING CONFIG 12
+ -> Add to intermediate pack(s)
+E_relax=931.466
+AT 'TIME' 3908, GENERATING CONFIG 13

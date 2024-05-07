@@ -2076,7 +2076,7 @@ void qnBFGSupdate(Configuration & List, Potential & pot, double Pressure, int Sw
 
 			std::cout << "\nITERATION NO=" << iter << ",OBJ_FUNC=" << current_fmin;
 			std::cout << ",STEP_SIZE=" << std::setprecision(4) << std::scientific << current_ss << ",CONFIG=\n";
-			gsl_vector_fprintf(stdout, current_pos, "%1.10e");
+			// gsl_vector_fprintf(stdout, current_pos, "%1.10e");
 		}
 
 		iter++;

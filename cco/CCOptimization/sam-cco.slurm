@@ -12,7 +12,7 @@
 timelimit=48 # time limit in hours. The code will stop and save the progress at the time limit; very important if you simulate with MD
 tolerance=1e-17	# tolerance for the ground-state energy
 max_evl=1000000 # maximum number of evaluations
-seed=2960015 # random seed for initial conditions.
+seed=824352 # random seed for initial conditions.
 
 # IMPORTANT COMMANDS
 d=2 # dimensionality
@@ -23,8 +23,8 @@ K1a=0.0 # minimum wavenumber in the dimensionless exclusion region (0 implies hy
 Ka=0.414593 # chi=0.02
 # Ka=0.929516 # chi=0.1
 
-packing_frac=0.54 # USED FOR CALCULATING PARTICLE RADIUS
-N=16384 # particle number
+packing_frac=0.0078 # USED FOR CALCULATING PARTICLE RADIUS
+N=1024 # particle number
 Nc=50 # the number of configurations
 S0=0.0 # value of the structure factor for K1a < ka < Ka (0 means stealthy hyperuniformity.)
 val=1.0 # strength of the soft-core repulsion <=> hard core applies to val \geq \phi\times10^{\phi}, i.e., choose val=1 for hard cores (0 implies no repulsion <=> nonzero 'val' results in hard code particles)
@@ -35,11 +35,11 @@ input=input # type of input data - takes values of 'random' (random initial cond
 
 # loadnames relevant only if input='input' (absolute path names a lot easier)
 # loadname="/home/sd2402/SP24/APC523/sd2402-Final-Project/CONFIGURATIONS/POISSON/POISSON-2D-N_1024/POISSON-2D-N_1024"
-loadname="/home/sd2402/SP24/APC523/sd2402-Final-Project/CONFIGURATIONS/POISSON/POISSON-2D-N_16384/POISSON-2D-N_16384"
-# loadname="/home/sd2402/SP24/APC523/sd2402-Final-Project/CONFIGURATIONS/POISSON/POISSON-2D-N_262144/POISSON-2D-N_262144"
+# loadname="/home/sd2402/SP24/APC523/sd2402-Final-Project/CONFIGURATIONS/RSA/RSA-2D-N_1024/RSA-2D-N_1000-rho_1.0"
+loadname="/home/sd2402/SP24/APC523/sd2402-Final-Project/CONFIGURATIONS/URL/URL-2D-N_1024/URL-2D-N_1024-phi_0.0078-R_0.05"
 
 savename=ccoptimization # savename of ConfigPack files
-algorithm="MINOP" # "LBFGS" or "ConjugateGradient" or 'MINOP' or 'SteepestDescent' or 'qnLBFGS'
+algorithm="qnLBFGS" # "LBFGS" or "ConjugateGradient" or 'MINOP' or 'SteepestDescent' or 'qnLBFGS'
 sim_type=ground	# simulation type - takes values of 'ground' or 'MD' 
 							# ground = find ground states (ground states are stored in ${savename}_Success.ConfigPack)
 							# MD = molecular dynamics simulation - data are stored in ${savename}.ConfigPack

@@ -19,7 +19,7 @@ num particle           = 1000
 num configs            = 50
 num equil. sample      = 0
 Initial conditions     = input
-Optimization algorithm = MINOP
+Optimization algorithm = qnLBFGS
 ######                            ######
 ########################################
 

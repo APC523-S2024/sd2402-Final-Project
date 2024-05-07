@@ -1,8 +1,9 @@
 """
 Script for generating 2D Uniformly Randomized Lattice (URL) packings of hard spheres
 We njit the heck out of this procedure so it'll be pretty fast up to 100**2 particles
+
 Sam Dawley
-2/28/24
+5/2024
 
 Refs
 - M. A. Klatt, J. Kim, and S. Torquato, Cloaking the Underlying Long-Range Order of Randomly Perturbed Lattices, Physical Review E, 101 032118 (2020).
@@ -12,8 +13,114 @@ import numpy as np
 import numba as nb
 import numpy.linalg as la
 
-from utils.geom import nearest_image, stringify, spherical_autointersections, spherical_intersections
+##################################################
+# MISCELLANEOUS
+##################################################
+@nb.jit(nopython=True)
+def nearest_image(primitive: np.array, p1: np.array, p2: np.array=None) -> list:
+    """
+    Compute d-dimensional Euclidean distance between points p1, p2 using nearest-image convention
+    Args
+        p1 = (1, d) coordinates of tagged point
+        p2 = (1, d) coordinates of other point
+        primitive = (d, d) primitive lattice vectors of simulation box
+    Returns
+        (1, d) coordinates of distance from origin (or distance between points) accounting for periodic boundaries
+    """
+    d = p1.size # cheeky dimension
+    primitive_norms = np.array([la.norm(k) for k in primitive])
+    # Nearest-image position of a single particle
+    if p2 is None:
+        for i, k in zip(range(d), primitive_norms): 
+            if   p1[i] >=  k: p1[i] -= k
+            elif p1[i] <= -k: p1[i] += k
+        return np.abs(p1)
+    # Nearest-image distance between two particles
+    else:
+        dr = p1 - p2
+        for i, k in zip(range(d), primitive_norms): 
+            if   dr[i] >=  k/2: dr[i] -= k
+            elif dr[i] <= -k/2: dr[i] += k
+        return np.abs(dr)
 
+@nb.njit
+def spherical_autointersections(primitive: np.array, D: float, particles: np.array) -> bool:
+    """
+    Check if any pts within particles are intersection
+    Assumes uniform diameter D for all particles and npt
+    Primarily used for rejection sampling of particles ndarray 
+    Args
+        primitive = (d, d) primitive lattice vectors of cell containing both points
+        D = particle diameters (all pts within particles and of npt)
+        particles = (N, d) array containing Cartesian coordinates of all points
+    Returns
+        True (False) if ANY (NONE) intersections of the points contained within particles ndarray
+    """
+    for pt in particles:
+        for npt in particles:
+            if _test_spherical_intersection(primitive, D, pt, npt):
+                return True
+    return False
+
+@nb.njit
+def spherical_intersections(primitive: np.array, D: float, particles: np.array, npt: np.array) -> bool:
+    """
+    Check if hard sphere npt intersects any other hard sphere within ndarray particles
+    Assumes uniform diameter D for all particles and npt
+    Args
+        primitive = (d, d) primitive lattice vectors of cell containing both points
+        D = particle diameters (all pts within particles and of npt)
+        particles = (N, d) array containing Cartesian coordinates of all points
+        npt = (1, d) array of point which we are testing intersections against
+    Returns
+        True (False) if npt intersects ANY (NONE) of the points contained within particles ndarray
+    """
+    for pt in particles:
+        if _test_spherical_intersection(primitive, D, pt, npt):
+            return True
+    return False
+
+def stringify(V: np.array, new_d: int=4) -> list:
+    """
+    Stringify V lattice vectors to 4D (a la CCOptimization) for writing to output files
+    Args
+        V = (n, d) lattice vectors
+        new_d = 'dimension' of output basis vectors
+    Returns
+        res = (1, d) list of strings containing lattice vectors
+    """
+    res = []
+    for v in V:
+        line = ""
+        svector = [str(norm) for norm in v]
+        if len(svector) < new_d:
+            svector += ["0.0" for _ in range(new_d-len(svector))]
+        svector = np.asarray(svector).ravel()
+        for sv in svector:
+            line += sv + "\t"
+        res.append(line)
+    return res
+
+@nb.njit
+def _test_spherical_intersection(primitive: np.array, D: float, pt1: np.array, pt2: np.array) -> bool:
+    """ 
+    Test if two spherical particles with uniform diameters D pt1 and pt2 overlap
+    Used primarily as a subroutine for spherical_intersection() immediately below
+    Args
+        primitive = (d, d) primitive lattice vectors of cell containing both points
+        D = particle diameters (should be the same)
+        pt1, pt2 = (1, d) arrays of Cartesian coordinates of either point
+    Returns
+        True (False) if pt1 and pt2 (don't) intersect in Euclidean space
+    """
+    interparticle_dist = la.norm(nearest_image(primitive, pt1, pt2))
+    if interparticle_dist <= D:
+        return True
+    return False
+
+##################################################
+# PRIMARY SUBROUTINES
+##################################################
 @nb.njit
 def rejection_sample(M: int, primitive: np.array, a: float, num_particles: int) -> None:
     """
